@@ -1,0 +1,2692 @@
+{
+  "schema_version": 2,
+  "title": "Awesome Generalist Robotics",
+  "updated": "2026-11-06",
+  "entries": [
+    {
+      "id": "n097",
+      "title": "Adapting Generalist Robot Policies with Semantic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.31958v1",
+      "summary": "Adapts generalist robot behavior by learning language prompts that elicit and compose pretrained skills through online reinforcement learning.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "30 Jun 2026",
+      "first_author": "Jagdeep Singh Bhatia"
+    },
+    {
+      "id": "n005",
+      "title": "AirDreamer: Generalist Drone Navigation with World Models",
+      "url": "https://arxiv.org/abs/2606.03252",
+      "summary": "Studies generalist drone navigation with learned world models.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "2 Jun 2026",
+      "first_author": "Zian Liu"
+    },
+    {
+      "id": "n088",
+      "title": "Asynchronous Robot Policies",
+      "url": "https://arxiv.org/abs/2611.05155v1",
+      "summary": "Decouples semantic reasoning and action generation into asynchronous processes for responsive generalist VLA execution.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "3 Nov 2026",
+      "first_author": "Sombit Dey"
+    },
+    {
+      "id": "n102",
+      "title": "CEI: A Unified Interface for Cross-Embodiment Visuomotor Policy Learning in 3D Space",
+      "url": "https://arxiv.org/abs/2601.09163v1",
+      "summary": "Transfers demonstrations and visuomotor policies across robot arms and end-effectors through functional geometric alignment.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "14 Jan 2026",
+      "first_author": "Tong Wu"
+    },
+    {
+      "id": "n094",
+      "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators",
+      "url": "https://arxiv.org/abs/2608.27406v2",
+      "summary": "Shares action-conditioned video world modeling across embodiments through end-effector, language and latent-action interfaces.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "27 Aug 2026",
+      "first_author": "Kechen Liu"
+    },
+    {
+      "id": "n033",
+      "title": "Cross-Embodiment Causal Transfer from Human Videos to Robot Manipulation",
+      "url": "https://arxiv.org/abs/2610.21798",
+      "summary": "Studies causal transfer from human video experience into robotic manipulation.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "15 Oct 2026",
+      "first_author": "Xingyu Zhang"
+    },
+    {
+      "id": "n090",
+      "title": "Cross-Embodiment Motion Planning by Coupling Body-Agnostic World Model with Differentiable Ego-Dynamics",
+      "url": "https://arxiv.org/abs/2610.41330v1",
+      "summary": "Couples a shared world model and robot-specific dynamics with one conditioned policy for cross-embodiment motion planning.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "30 Oct 2026",
+      "first_author": "Zhidong Wang"
+    },
+    {
+      "id": "n100",
+      "title": "Cross-Embodiment Offline Reinforcement Learning for Heterogeneous Robot Datasets",
+      "url": "https://arxiv.org/abs/2602.18025v1",
+      "summary": "Studies cross-embodiment offline policy learning and reduces inter-robot gradient conflicts using morphology-based grouping.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "20 Feb 2026",
+      "first_author": "Haruki Abe"
+    },
+    {
+      "id": "r011",
+      "title": "Cross-Embodiment Robot Foundation World Models with Latent Actions",
+      "url": "https://arxiv.org/abs/2610.10846v1",
+      "summary": "Studies cross-embodiment robot world models with latent action interfaces.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "7 Oct 2026",
+      "first_author": "Huang Huang"
+    },
+    {
+      "id": "n012",
+      "title": "Embodiment-Aware Generalist Specialist Distillation for Unified Humanoid Whole-Body Control",
+      "url": "https://arxiv.org/abs/2602.02960v2",
+      "summary": "Distills embodiment-aware specialist knowledge into generalist humanoid whole-body control.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "3 Feb 2026",
+      "first_author": "Quanquan Peng"
+    },
+    {
+      "id": "r007",
+      "title": "Embodiment-conditioned Generalist Control for Multirotor Aerial Robots",
+      "url": "https://arxiv.org/abs/2606.10857v1",
+      "summary": "Conditions multirotor control on physical descriptors within fixed-rotor-count policy families.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "9 Jun 2026",
+      "first_author": "Orestis Konstantaropoulos",
+      "caution": "Policies have fixed rotor counts; quadrotor and hexarotor studies use separate weights."
+    },
+    {
+      "id": "n037",
+      "title": "FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback",
+      "url": "https://arxiv.org/abs/2609.18651v1",
+      "summary": "Uses progress and failure feedback to turn generalist robot policies into fast specialists.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "16 Sep 2026",
+      "first_author": "Runjia Tan"
+    },
+    {
+      "id": "n031",
+      "title": "Heterogeneous Tactile Transformer",
+      "url": "https://arxiv.org/abs/2606.29948",
+      "summary": "Shares tactile representations across heterogeneous sensing configurations.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "method",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "29 Jun 2026",
+      "first_author": "Jianxin Bi"
+    },
+    {
+      "id": "n007",
+      "title": "ImagiNav: Scalable Embodied Navigation via Generative Visual Prediction and Inverse Dynamics",
+      "url": "https://arxiv.org/abs/2603.13833",
+      "summary": "Combines generative visual prediction and inverse dynamics for scalable navigation.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "14 Mar 2026",
+      "first_author": "Jie Chen"
+    },
+    {
+      "id": "n098",
+      "title": "KITE: Decoupling Kinematics and Interaction for Zero-Shot Cross-Embodiment Manipulation",
+      "url": "https://arxiv.org/abs/2606.22113v2",
+      "summary": "Shares interaction prediction across robot bodies while learning embodiment-specific kinematic decoders from synthetic data.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "20 Jun 2026",
+      "first_author": "Qianxu Wang"
+    },
+    {
+      "id": "n092",
+      "title": "Latent Policy Steering: An Efficient and Flexible Framework for Cross-Embodiment Transfer",
+      "url": "https://arxiv.org/abs/2609.22521v2",
+      "summary": "Transfers shared visual dynamics into target-robot policy improvement through latent-space steering and limited target demonstrations.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "18 Sep 2026",
+      "first_author": "Yiqi Wang"
+    },
+    {
+      "id": "r080",
+      "title": "Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency",
+      "url": "https://arxiv.org/abs/2608.23831v2",
+      "summary": "Fine-tunes generalist policies while accounting for inference latency.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "24 Aug 2026",
+      "first_author": "Brian Zhu"
+    },
+    {
+      "id": "r081",
+      "title": "Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies",
+      "url": "https://arxiv.org/abs/2605.00416v4",
+      "summary": "Studies fleet-scale policy improvement during real-world deployment.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "1 May 2026",
+      "first_author": "Yi Wang"
+    },
+    {
+      "id": "r061",
+      "title": "LongBench: Evaluating Robotic Manipulation Policies on Real-World Long-Horizon Tasks",
+      "url": "https://arxiv.org/abs/2604.16788v1",
+      "summary": "Evaluates robot policies on real-world long-horizon manipulation tasks.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "18 Apr 2026",
+      "first_author": "Xueyao Chen"
+    },
+    {
+      "id": "r010",
+      "title": "Morphology-Conditioned World Model for Cross-Embodiment Quadrupedal Locomotion",
+      "url": "https://arxiv.org/abs/2604.08780v2",
+      "summary": "Conditions learned dynamics on morphology for transfer within a quadrupedal template.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "9 Apr 2026",
+      "first_author": "Mohamad H. Danesh"
+    },
+    {
+      "id": "r018",
+      "title": "OmniPlanner: Universal Exploration and Inspection Path Planning Across Robot Morphologies",
+      "url": "https://arxiv.org/abs/2603.04284v2",
+      "summary": "Shares exploration and inspection planning across robot morphologies with embodiment-specific constraints.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "4 Mar 2026",
+      "first_author": "Angelos Zacharia"
+    },
+    {
+      "id": "n089",
+      "title": "OpenNWM: A Generalist Navigation World Model with Latent Action Pretraining",
+      "url": "https://arxiv.org/abs/2611.01844v1",
+      "summary": "Learns shared navigation dynamics from heterogeneous action-free videos, then aligns latent actions with physical motion.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "1 Nov 2026",
+      "first_author": "Dujun Nie"
+    },
+    {
+      "id": "r119",
+      "title": "PolyMorph: Learning Locomotion Policy for Cross-Embodiment Adaptation",
+      "url": "https://arxiv.org/abs/2610.19615v1",
+      "summary": "Studies shared locomotion and adaptation across robot embodiments.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "14 Oct 2026",
+      "first_author": "Hyunsik Oh"
+    },
+    {
+      "id": "n038",
+      "title": "Robometer: Scaling General-Purpose Robotic Reward Models via Trajectory Comparisons",
+      "url": "https://arxiv.org/abs/2603.02115v2",
+      "summary": "Learns reusable robotic reward models from trajectory comparisons.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "2 Mar 2026",
+      "first_author": "Anthony Liang"
+    },
+    {
+      "id": "n091",
+      "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+      "url": "https://arxiv.org/abs/2610.26855v1",
+      "summary": "Models locomotion and manipulation across human and robot embodiments using shared kinematic representations and heterogeneous experience.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "19 Oct 2026",
+      "first_author": "Tianqi Liu"
+    },
+    {
+      "id": "n099",
+      "title": "SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation",
+      "url": "https://arxiv.org/abs/2606.18610v3",
+      "summary": "Evaluates generalist manipulation policies through closed-loop video rollouts with dynamics, cross-view and test-time consistency checks.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "method",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "17 Jun 2026",
+      "first_author": "Wei-Cheng Tseng"
+    },
+    {
+      "id": "n101",
+      "title": "Scalable and General Whole-Body Control for Cross-Humanoid Locomotion",
+      "url": "https://arxiv.org/abs/2602.05791v3",
+      "summary": "Trains one humanoid controller across randomized bodies using aligned interfaces and morphology-aware policy architectures.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "5 Feb 2026",
+      "first_author": "Yufei Xue"
+    },
+    {
+      "id": "r008",
+      "title": "Sensor-Layout-Agnostic Navigation via Geometric Observation Canonicalization",
+      "url": "https://arxiv.org/abs/2610.08306v1",
+      "summary": "Canonicalizes calibrated depth observations to share reactive navigation across sensor layouts.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "6 Oct 2026",
+      "first_author": "Welf Rehberg",
+      "caution": "Sensor-layout transfer; joint arbitrary-body dynamics transfer is not established."
+    },
+    {
+      "id": "n028",
+      "title": "SPACE: Enabling Learning from Cross-Robot Data Toward Generalist Policies",
+      "url": "https://arxiv.org/abs/2606.24049v1",
+      "summary": "Aligns cross-robot data with a target robot's action realization.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "23 Jun 2026",
+      "first_author": "Haeone Lee"
+    },
+    {
+      "id": "n044",
+      "title": "The Embodiment Gap in Robot Foundation Models",
+      "url": "https://arxiv.org/abs/2608.18433",
+      "summary": "Examines the gap between reusable foundation models and embodiment-specific execution.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "survey",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "19 Aug 2026",
+      "first_author": "Yukiyasu Domae"
+    },
+    {
+      "id": "r006",
+      "title": "The Unified Autonomy Stack: Toward a Blueprint for Generalizable Robot Autonomy",
+      "url": "https://arxiv.org/abs/2605.12735v1",
+      "summary": "Reuses perception, planning and navigation through robot and mission abstraction layers.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "system",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "12 May 2026",
+      "first_author": "Mihir Dharmadhikari"
+    },
+    {
+      "id": "n006",
+      "title": "Training Generalist Navigation Policies via Action Self-Distillation",
+      "url": "https://arxiv.org/abs/2610.17593",
+      "summary": "Uses action self-distillation to train generalist navigation policies.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "13 Oct 2026",
+      "first_author": "Bowen Feng"
+    },
+    {
+      "id": "r078",
+      "title": "Training Generalist Robots: A Meta-Analytic Survey of Datasets and Foundation Models",
+      "url": "https://www.researchgate.net/publication/404391843_Training_Generalist_Robots_A_Meta-Analytic_Survey_of_Datasets_and_Foundation_Models",
+      "summary": "Surveys generalist robot datasets and models, emphasizing transfer evidence and comparison confounds.",
+      "year": 2026,
+      "year_basis": "record-year",
+      "resource_type": "survey",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      }
+    },
+    {
+      "id": "r084",
+      "title": "Uni-VLaT: Whole-Body Tactile Adaptation of VLA Policies for Humanoid Loco-Manipulation",
+      "url": "https://arxiv.org/abs/2609.35450v2",
+      "summary": "Adapts humanoid VLA policies with whole-body tactile feedback.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "28 Sep 2026",
+      "first_author": "Zihao Wang"
+    },
+    {
+      "id": "r012",
+      "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
+      "url": "https://arxiv.org/abs/2610.12435v1",
+      "summary": "Learns generalist humanoid control using human motion data.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "8 Oct 2026",
+      "first_author": "Mert Albaba"
+    },
+    {
+      "id": "n043",
+      "title": "Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines",
+      "url": "https://arxiv.org/abs/2604.23001",
+      "summary": "Surveys VLA datasets, benchmarks and data engines, including evaluation gaps.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "survey",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "24 Apr 2026",
+      "first_author": "Ziyao Wang"
+    },
+    {
+      "id": "n096",
+      "title": "What Does It Take For A Generalist Robot Policy To Adapt Using Minimal Data?",
+      "url": "https://arxiv.org/abs/2608.11363v3",
+      "summary": "Studies few-demonstration adaptation of pretrained generalist policies through online residual reinforcement learning over frozen VLA representations.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "11 Aug 2026",
+      "first_author": "Shreyas Kowshik"
+    },
+    {
+      "id": "n034",
+      "title": "World Action Models are Zero-shot Policies",
+      "url": "https://arxiv.org/abs/2602.15922v1",
+      "summary": "Uses world-action modeling for robot policies and zero-shot task transfer.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "17 Feb 2026",
+      "first_author": "Seonghyeon Ye"
+    },
+    {
+      "id": "r090",
+      "title": "World-Action Models for Robot Learning and Control: A Survey",
+      "url": "https://arxiv.org/abs/2609.16074v1",
+      "summary": "Surveys how predictive world models connect to action generation and robot control.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "survey",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "13 Sep 2026",
+      "first_author": "Zuxing Lu"
+    },
+    {
+      "id": "n032",
+      "title": "X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets",
+      "url": "https://arxiv.org/abs/2609.35715v1",
+      "summary": "Uses cross-embodiment resets to scale object-centric reinforcement learning.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "28 Sep 2026",
+      "first_author": "Prithwish Dan"
+    },
+    {
+      "id": "n093",
+      "title": "ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation",
+      "url": "https://arxiv.org/abs/2609.02546v3",
+      "summary": "Separates strict unseen-body transfer from pretraining exposure and evaluates cross-embodiment VLA design choices under controlled conditions.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "2 Sep 2026",
+      "first_author": "Mi Yan"
+    },
+    {
+      "id": "r122",
+      "title": "γ₀: A Generalist Policy for Multi-Embodiment Motion Control",
+      "url": "https://gamma-zero.com/",
+      "summary": "Project investigating shared motion control across randomized robot embodiments.",
+      "year": 2026,
+      "year_basis": "maintainer-provided",
+      "resource_type": "project",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "project-link-unresolved"
+      },
+      "caution": "The project URL was inaccessible during preparation; an author-page alternative is provided.",
+      "related_url": "https://anindex.github.io/"
+    },
+    {
+      "id": "n095",
+      "title": "τ₀-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
+      "url": "https://arxiv.org/abs/2608.16885v1",
+      "summary": "Combines hierarchical generalist control with execution memory and world-model-guided search over subtasks at inference time.",
+      "year": 2026,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "17 Aug 2026",
+      "first_author": "Xiaowei Cai"
+    },
+    {
+      "id": "n042",
+      "title": "A Survey on Efficient Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2510.24795",
+      "summary": "Reviews model, training and data strategies for more efficient VLA deployment.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "survey",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "27 Oct 2025",
+      "first_author": "Zhaoshu Yu"
+    },
+    {
+      "id": "n041",
+      "title": "A Survey on Vision-Language-Action Models: An Action Tokenization Perspective",
+      "url": "https://arxiv.org/abs/2507.01925",
+      "summary": "Organizes VLA methods through their action representations and tokenization choices.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "survey",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "2 Jul 2025",
+      "first_author": "Yifan Zhong"
+    },
+    {
+      "id": "n070",
+      "title": "Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding",
+      "url": "https://arxiv.org/abs/2501.04693v3",
+      "summary": "Adapts generalist policies to heterogeneous sensors through language-grounded multimodal learning.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "8 Jan 2025",
+      "first_author": "Joshua Jones"
+    },
+    {
+      "id": "r088",
+      "title": "Ctrl-World: A Controllable Generative World Model for Robot Manipulation",
+      "url": "https://arxiv.org/abs/2510.10125",
+      "summary": "Builds a controllable multi-view world model for evaluating and improving robot policies.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      },
+      "related_url": "https://ctrl-world.github.io/",
+      "publication_note": "ICLR 2026"
+    },
+    {
+      "id": "n061",
+      "title": "DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control",
+      "url": "https://arxiv.org/abs/2502.05855v3",
+      "summary": "Pairs a vision-language model with a diffusion expert and staged embodiment adaptation.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "9 Feb 2025",
+      "first_author": "Junjie Wen"
+    },
+    {
+      "id": "r037",
+      "title": "FAST: Efficient Action Tokenization for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2501.09747v1",
+      "summary": "Compresses continuous action sequences into tokens for efficient VLA learning.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "16 Jan 2025",
+      "first_author": "Karl Pertsch"
+    },
+    {
+      "id": "r038",
+      "title": "Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success",
+      "url": "https://arxiv.org/abs/2502.19645v2",
+      "summary": "Studies action modeling and fine-tuning choices that improve VLA speed and task success.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "27 Feb 2025",
+      "first_author": "Moo Jin Kim"
+    },
+    {
+      "id": "r073",
+      "title": "Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer",
+      "url": "https://arxiv.org/abs/2510.03342v3",
+      "summary": "Extends generalist robotics with embodied reasoning and motion transfer.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "2 Oct 2025",
+      "first_author": "Gemini Robotics Team"
+    },
+    {
+      "id": "r047",
+      "title": "Gemini Robotics: Bringing AI into the Physical World",
+      "url": "https://arxiv.org/abs/2503.20020v1",
+      "summary": "Connects embodied reasoning and generalist robot action generation across manipulation tasks.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "25 Mar 2025",
+      "first_author": "Gemini Robotics Team"
+    },
+    {
+      "id": "r046",
+      "title": "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots",
+      "url": "https://arxiv.org/abs/2503.14734v2",
+      "summary": "Combines vision-language reasoning and diffusion action generation for humanoid manipulation.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "18 Mar 2025",
+      "first_author": "NVIDIA"
+    },
+    {
+      "id": "r079",
+      "title": "Improving Compositional Generalization in Cross-Embodiment Learning via Mixture of Disentangled Prototypes",
+      "url": "https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2025_Improving%20Compositional%20Generalization%20in%20Cross-Embodiment%20Learning%20via%20Mixture%20of%20Disentangled%20Prototypes.pdf",
+      "summary": "Disentangles embodiment and environment prototypes for compositional cross-embodiment transfer.",
+      "year": 2025,
+      "year_basis": "record-year",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      }
+    },
+    {
+      "id": "r120",
+      "title": "LocoFormer: Generalist Locomotion via Long-context Adaptation",
+      "url": "https://arxiv.org/abs/2509.23745v1",
+      "summary": "Uses long observation histories for generalist locomotion adaptation.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "28 Sep 2025",
+      "first_author": "Min Liu"
+    },
+    {
+      "id": "n019",
+      "title": "Magma: A Foundation Model for Multimodal AI Agents",
+      "url": "https://arxiv.org/abs/2502.13130",
+      "summary": "Unifies multimodal action learning across digital interfaces and physical robot tasks.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "18 Feb 2025",
+      "first_author": "Jianwei Yang"
+    },
+    {
+      "id": "r087",
+      "title": "MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2508.19236v1",
+      "summary": "Adds perceptual and cognitive memory to support manipulation over extended interactions.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "26 Aug 2025",
+      "first_author": "Hao Shi"
+    },
+    {
+      "id": "r015",
+      "title": "One Ring to Rule Them All: Constrained Distributional Control for Massive-Scale Heterogeneous Robotic Ensemble Systems",
+      "url": "https://arxiv.org/abs/2512.04502v1",
+      "summary": "Synthesizes shared control inputs for heterogeneous robotic ensembles under state and environmental constraints.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      }
+    },
+    {
+      "id": "r089",
+      "title": "PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies",
+      "url": "https://arxiv.org/abs/2512.16881v2",
+      "summary": "Studies scalable real-to-simulation evaluation of generalist policies.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "18 Dec 2025",
+      "first_author": "Arhan Jain"
+    },
+    {
+      "id": "r115",
+      "title": "RAPTOR: A Foundation Policy for Quadrotor Control",
+      "url": "https://arxiv.org/abs/2509.11481v2",
+      "summary": "Studies a foundation policy for quadrotor control and adaptation across flight conditions.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "15 Sep 2025",
+      "first_author": "Jonas Eschmann"
+    },
+    {
+      "id": "n035",
+      "title": "Real-Time Execution of Action Chunking Flow Policies",
+      "url": "https://arxiv.org/abs/2506.07339v2",
+      "summary": "Schedules overlapping action chunks to reduce execution disruption from model inference.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "9 Jun 2025",
+      "first_author": "Kevin Black"
+    },
+    {
+      "id": "n036",
+      "title": "Refined Policy Distillation: From VLA Generalists to RL Experts",
+      "url": "https://arxiv.org/abs/2503.05833v2",
+      "summary": "Refines generalist VLA behavior into reinforcement-learning specialists through distillation.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "6 Mar 2025",
+      "first_author": "Tobias Jülg"
+    },
+    {
+      "id": "r016",
+      "title": "RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning",
+      "url": "https://roboticsproceedings.org/rss21/p028.html",
+      "summary": "Distills reinforcement-learning improvements into a generalist robot policy.",
+      "year": 2025,
+      "year_basis": "record-year",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      }
+    },
+    {
+      "id": "r068",
+      "title": "RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies",
+      "url": "https://arxiv.org/abs/2506.18123v2",
+      "summary": "Supports distributed real-world evaluation of generalist robot policies.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "22 Jun 2025",
+      "first_author": "Pranav Atreya"
+    },
+    {
+      "id": "n040",
+      "title": "RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins",
+      "url": "https://arxiv.org/abs/2504.13059",
+      "summary": "Uses generative digital twins to support dual-arm learning and evaluation.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "17 Apr 2025",
+      "first_author": "Yao Mu"
+    },
+    {
+      "id": "r045",
+      "title": "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics",
+      "url": "https://arxiv.org/abs/2506.01844v1",
+      "summary": "Provides a compact vision-language-action model for affordable robot learning and deployment.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "2 Jun 2025",
+      "first_author": "Mustafa Shukor"
+    },
+    {
+      "id": "r083",
+      "title": "Tactile-VLA: Unlocking Vision-Language-Action Model’s Physical Knowledge for Tactile Generalization",
+      "url": "https://arxiv.org/abs/2507.09160v1",
+      "summary": "Studies tactile generalization through the physical knowledge of vision-language-action models.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "12 Jul 2025",
+      "first_author": "Jialei Huang"
+    },
+    {
+      "id": "r024",
+      "title": "Towards Embodiment Scaling Laws in Robot Locomotion",
+      "url": "https://proceedings.mlr.press/v305/ai25a.html",
+      "summary": "Studies how the diversity and scale of embodiment training affect locomotion transfer.",
+      "year": 2025,
+      "year_basis": "record-year",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      }
+    },
+    {
+      "id": "r025",
+      "title": "Universal Actions for Enhanced Embodied Foundation Models",
+      "url": "https://arxiv.org/abs/2501.10105",
+      "summary": "Learns universal action representations with embodiment-specific command realization.",
+      "year": 2025,
+      "year_basis": "record-year",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      },
+      "related_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Zheng_Universal_Actions_for_Enhanced_Embodied_Foundation_Models_CVPR_2025_paper.html"
+    },
+    {
+      "id": "r086",
+      "title": "VideoVLA: Video Generators Can Be Generalizable Robot Manipulators",
+      "url": "https://papers.nips.cc/paper_files/paper/2025/file/89a3b655a8b68ae1c76b768152c9c19d-Paper-Conference.pdf",
+      "summary": "Jointly predicts actions and future video to transfer generative priors into manipulation.",
+      "year": 2025,
+      "year_basis": "record-year",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      }
+    },
+    {
+      "id": "r082",
+      "title": "VLA-Touch: Enhancing Vision-Language-Action Models with Dual-Level Tactile Feedback",
+      "url": "https://arxiv.org/abs/2507.17294v1",
+      "summary": "Adds tactile feedback to vision-language-action policies.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "23 Jul 2025",
+      "first_author": "Jianxin Bi"
+    },
+    {
+      "id": "n016",
+      "title": "X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model",
+      "url": "https://arxiv.org/abs/2510.10274",
+      "summary": "Uses soft prompts to scale a transformer policy across robot embodiments.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "11 Oct 2025",
+      "first_author": "Jinliang Zheng"
+    },
+    {
+      "id": "r048",
+      "title": "π*₀.₆: A VLA That Learns From Experience",
+      "url": "https://arxiv.org/abs/2511.14759v2",
+      "summary": "Improves VLA behavior using robot experience and reinforcement learning.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "18 Nov 2025",
+      "first_author": "Physical Intelligence"
+    },
+    {
+      "id": "r044",
+      "title": "π₀.₅: A Vision-Language-Action Model with Open-World Generalization",
+      "url": "https://arxiv.org/abs/2504.16054v1",
+      "summary": "Studies open-world manipulation generalization through heterogeneous training and hierarchical instruction conditioning.",
+      "year": 2025,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "22 Apr 2025",
+      "first_author": "Physical Intelligence"
+    },
+    {
+      "id": "n048",
+      "title": "3D-VLA: A 3D Vision-Language-Action Generative World Model",
+      "url": "https://arxiv.org/abs/2403.09631v1",
+      "summary": "Connects 3D perception and reasoning with generative predictions of future goals.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "14 Mar 2024",
+      "first_author": "Haoyu Zhen"
+    },
+    {
+      "id": "r065",
+      "title": "A Survey on Robotics with Foundation Models: toward Embodied AI",
+      "url": "https://arxiv.org/abs/2402.02385v1",
+      "summary": "Reviews foundation models for robot planning, control and representation learning.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "survey",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "4 Feb 2024",
+      "first_author": "Zhiyuan Xu"
+    },
+    {
+      "id": "n075",
+      "title": "All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents",
+      "url": "https://arxiv.org/abs/2408.10899v1",
+      "summary": "Proposes a unified data standard and mixed real/simulated dataset for embodied agents.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "dataset",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "20 Aug 2024",
+      "first_author": "Zhiqiang Wang"
+    },
+    {
+      "id": "n045",
+      "title": "An Interactive Agent Foundation Model",
+      "url": "https://arxiv.org/abs/2402.05929v2",
+      "summary": "Combines visual, language and action objectives across robotics and other agent domains.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "8 Feb 2024",
+      "first_author": "Zane Durante"
+    },
+    {
+      "id": "n014",
+      "title": "BAKU: An Efficient Transformer for Multi-Task Policy Learning",
+      "url": "https://arxiv.org/abs/2406.07539",
+      "summary": "Provides a transformer architecture for multi-task manipulation policy learning.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "11 Jun 2024",
+      "first_author": "Siddhant Haldar"
+    },
+    {
+      "id": "n011",
+      "title": "Body Transformer: Leveraging Robot Embodiment for Policy Learning",
+      "url": "https://arxiv.org/abs/2408.06316",
+      "summary": "Uses the robot's body structure to organize transformer-based policy learning.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "12 Aug 2024",
+      "first_author": "Carmelo Sferrazza"
+    },
+    {
+      "id": "r085",
+      "title": "CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2411.19650",
+      "summary": "Conditions a dedicated diffusion action module on vision-language cognition features.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      },
+      "related_url": "https://cogact.github.io/"
+    },
+    {
+      "id": "n054",
+      "title": "DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution",
+      "url": "https://arxiv.org/abs/2411.02359v1",
+      "summary": "Uses dynamic early exits to adapt VLA inference to compute and memory budgets.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "4 Nov 2024",
+      "first_author": "Yang Yue"
+    },
+    {
+      "id": "n056",
+      "title": "Diffusion-VLA: Generalizable and Interpretable Robot Foundation Model via Self-Generated Reasoning",
+      "url": "https://arxiv.org/abs/2412.03293v3",
+      "summary": "Combines autoregressive reasoning with diffusion-based continuous action generation.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "4 Dec 2024",
+      "first_author": "Junjie Wen"
+    },
+    {
+      "id": "r022",
+      "title": "Distilling Morphology-Conditioned Hypernetworks for Efficient Universal Morphology Control",
+      "url": "https://proceedings.mlr.press/v235/xiong24c.html",
+      "summary": "Distills morphology-conditioned hypernetworks into efficient universal controllers.",
+      "year": 2024,
+      "year_basis": "record-year",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      }
+    },
+    {
+      "id": "r058",
+      "title": "DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset",
+      "url": "https://arxiv.org/abs/2403.12945v2",
+      "summary": "Collects diverse in-the-wild manipulation trajectories for generalizable robot learning.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "dataset",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "19 Mar 2024",
+      "first_author": "Alexander Khazatsky"
+    },
+    {
+      "id": "n039",
+      "title": "Evaluating Real-World Robot Manipulation Policies in Simulation",
+      "url": "https://arxiv.org/abs/2405.05941",
+      "summary": "Evaluates real-world manipulation policies in simulation with attention to evaluation fidelity.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "9 May 2024",
+      "first_author": "Xuanlin Li"
+    },
+    {
+      "id": "n066",
+      "title": "FLaRe: Achieving Masterful and Adaptive Robot Policies with Large-Scale Reinforcement Learning Fine-Tuning",
+      "url": "https://arxiv.org/abs/2409.16578v2",
+      "summary": "Fine-tunes pretrained robot policies with reinforcement learning for long-horizon mobile manipulation.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "25 Sep 2024",
+      "first_author": "Jiaheng Hu"
+    },
+    {
+      "id": "r066",
+      "title": "FMB: a Functional Manipulation Benchmark for Generalizable Robotic Learning",
+      "url": "https://arxiv.org/abs/2401.08553v3",
+      "summary": "Evaluates manipulation generalization through functional assembly tasks.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "16 Jan 2024",
+      "first_author": "Jianlan Luo"
+    },
+    {
+      "id": "n078",
+      "title": "GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs",
+      "url": "https://arxiv.org/abs/2410.03645v1",
+      "summary": "Combines generated articulated-object tasks, demonstration solvers and a multi-task point-cloud policy.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "infrastructure",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "4 Oct 2024",
+      "first_author": "Pu Hua"
+    },
+    {
+      "id": "n052",
+      "title": "GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation",
+      "url": "https://arxiv.org/abs/2410.06158v1",
+      "summary": "Transfers large-scale video pretraining into multi-task robot action and video prediction.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "8 Oct 2024",
+      "first_author": "Chi-Lam Cheang"
+    },
+    {
+      "id": "n076",
+      "title": "GRUtopia: Dream General Robots in a City at Scale",
+      "url": "https://arxiv.org/abs/2407.10943v1",
+      "summary": "Provides interactive scenes and embodied benchmarks spanning navigation and loco-manipulation.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "15 Jul 2024",
+      "first_author": "Hanqing Wang"
+    },
+    {
+      "id": "r021",
+      "title": "HeteroMorpheus: Universal Control Based on Morphological Heterogeneity Modeling",
+      "url": "https://arxiv.org/abs/2408.01230v1",
+      "summary": "Models morphological heterogeneity to share control across robot bodies.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "2 Aug 2024",
+      "first_author": "YiFan Hao"
+    },
+    {
+      "id": "n053",
+      "title": "Latent Action Pretraining from Videos",
+      "url": "https://arxiv.org/abs/2410.11758v2",
+      "summary": "Learns latent actions from unlabeled videos before adapting them to executable robot commands.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "15 Oct 2024",
+      "first_author": "Seonghyeon Ye"
+    },
+    {
+      "id": "n051",
+      "title": "LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning",
+      "url": "https://arxiv.org/abs/2406.11815v1",
+      "summary": "Uses instruction tuning and visual traces to connect language, perception and action.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "17 Jun 2024",
+      "first_author": "Dantong Niu"
+    },
+    {
+      "id": "n077",
+      "title": "ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI",
+      "url": "https://arxiv.org/abs/2410.00425v2",
+      "summary": "Provides parallel simulation, rendering and demonstrations across diverse robot learning tasks.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "infrastructure",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "1 Oct 2024",
+      "first_author": "Stone Tao"
+    },
+    {
+      "id": "n058",
+      "title": "Moto: Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos",
+      "url": "https://arxiv.org/abs/2412.04445v4",
+      "summary": "Learns latent motion tokens from video and co-trains them with robot action prediction.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "5 Dec 2024",
+      "first_author": "Yi Chen"
+    },
+    {
+      "id": "n004",
+      "title": "Navigation World Models",
+      "url": "https://arxiv.org/abs/2412.03572",
+      "summary": "Models future observations for visual navigation.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "4 Dec 2024",
+      "first_author": "Amir Bar"
+    },
+    {
+      "id": "n060",
+      "title": "NaVILA: Legged Robot Vision-Language-Action Model for Navigation",
+      "url": "https://arxiv.org/abs/2412.04453v2",
+      "summary": "Connects language-guided navigation to legged locomotion through spatial mid-level commands.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "5 Dec 2024",
+      "first_author": "An-Chieh Cheng"
+    },
+    {
+      "id": "n067",
+      "title": "Neural MP: A Generalist Neural Motion Planner",
+      "url": "https://arxiv.org/abs/2409.05864v1",
+      "summary": "Distills motion-planning demonstrations into a reactive policy with downstream trajectory optimization.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "9 Sep 2024",
+      "first_author": "Murtaza Dalal"
+    },
+    {
+      "id": "r013",
+      "title": "Octo: An Open-Source Generalist Robot Policy",
+      "url": "https://arxiv.org/abs/2405.12213v2",
+      "summary": "Provides an open generalist manipulation policy designed for adaptation to new robot setups.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "20 May 2024",
+      "first_author": "Octo Model Team"
+    },
+    {
+      "id": "n025",
+      "title": "OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics",
+      "url": "https://arxiv.org/abs/2401.12202",
+      "summary": "Integrates open-knowledge models into a mobile manipulation system for unfamiliar environments.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "system",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "22 Jan 2024",
+      "first_author": "Peiqi Liu"
+    },
+    {
+      "id": "r009",
+      "title": "One Policy to Run Them All: an End-to-end Learning Approach to Multi-Embodiment Locomotion",
+      "url": "https://arxiv.org/abs/2409.06366v4",
+      "summary": "Uses joint and foot descriptions with shared encoders and decoders for multi-embodiment locomotion.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "10 Sep 2024",
+      "first_author": "Nico Bohlinger"
+    },
+    {
+      "id": "r043",
+      "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+      "url": "https://arxiv.org/abs/2406.09246v3",
+      "summary": "Provides an open vision-language-action model for manipulation and downstream adaptation.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "13 Jun 2024",
+      "first_author": "Moo Jin Kim"
+    },
+    {
+      "id": "n063",
+      "title": "Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation",
+      "url": "https://arxiv.org/abs/2402.19432v1",
+      "summary": "Studies transfer between navigation and manipulation through a shared goal-conditioned policy.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "29 Feb 2024",
+      "first_author": "Jonathan Yang"
+    },
+    {
+      "id": "r036",
+      "title": "RDT-1B: A Diffusion Foundation Model for Bimanual Manipulation",
+      "url": "https://arxiv.org/abs/2410.07864v2",
+      "summary": "Trains a diffusion-based foundation policy on diverse bimanual manipulation experience.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "10 Oct 2024",
+      "first_author": "Songming Liu"
+    },
+    {
+      "id": "r060",
+      "title": "RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots",
+      "url": "https://arxiv.org/abs/2406.02523v1",
+      "summary": "Generates diverse kitchen tasks and demonstrations for generalist manipulation learning.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "4 Jun 2024",
+      "first_author": "Soroush Nasiriany"
+    },
+    {
+      "id": "n018",
+      "title": "RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation",
+      "url": "https://arxiv.org/abs/2406.04339",
+      "summary": "Uses a state-space architecture for efficient embodied reasoning and manipulation.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "6 Jun 2024",
+      "first_author": "Jiaming Liu"
+    },
+    {
+      "id": "n079",
+      "title": "RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation",
+      "url": "https://arxiv.org/abs/2412.13877v3",
+      "summary": "Standardizes multi-embodiment teleoperation, failure demonstrations and digital-twin evaluation.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "dataset",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "18 Dec 2024",
+      "first_author": "Kun Wu"
+    },
+    {
+      "id": "n064",
+      "title": "RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics",
+      "url": "https://arxiv.org/abs/2406.10721v1",
+      "summary": "Predicts image-space affordance keypoints for downstream robot planning and control.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "15 Jun 2024",
+      "first_author": "Wentao Yuan"
+    },
+    {
+      "id": "n065",
+      "title": "Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments",
+      "url": "https://arxiv.org/abs/2409.05865v1",
+      "summary": "Deploys reusable mobile manipulation utility models with verification and retries in unfamiliar environments.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "9 Sep 2024",
+      "first_author": "Haritheja Etukuru",
+      "caution": "Uses multiple utility models with verification and retries, rather than one policy for every task."
+    },
+    {
+      "id": "n050",
+      "title": "Robotic Control via Embodied Chain-of-Thought Reasoning",
+      "url": "https://arxiv.org/abs/2407.08693v3",
+      "summary": "Trains intermediate, visually grounded reasoning before robot action prediction.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "11 Jul 2024",
+      "first_author": "Michał Zawalski"
+    },
+    {
+      "id": "n049",
+      "title": "RoboUniView: Visual-Language Model with Unified View Representation for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2406.18977v3",
+      "summary": "Separates unified multi-view visual representations from action learning.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "27 Jun 2024",
+      "first_author": "Fanfan Liu"
+    },
+    {
+      "id": "n055",
+      "title": "RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation",
+      "url": "https://arxiv.org/abs/2411.02704v1",
+      "summary": "Conditions manipulation on intermediate affordance plans drawn from heterogeneous supervision.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "5 Nov 2024",
+      "first_author": "Soroush Nasiriany"
+    },
+    {
+      "id": "n020",
+      "title": "RT-H: Action Hierarchies Using Language",
+      "url": "https://arxiv.org/abs/2403.01823",
+      "summary": "Uses language to structure action hierarchies and facilitate task correction.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "4 Mar 2024",
+      "first_author": "Suneel Belkhale"
+    },
+    {
+      "id": "r023",
+      "title": "Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation",
+      "url": "https://arxiv.org/abs/2408.11812",
+      "summary": "Shares one policy across manipulation, navigation, locomotion and aerial robot data.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      },
+      "publication_note": "CoRL 2024; PMLR proceedings published in 2025",
+      "related_url": "https://proceedings.mlr.press/v270/doshi25a.html"
+    },
+    {
+      "id": "n013",
+      "title": "Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers",
+      "url": "https://arxiv.org/abs/2409.20537",
+      "summary": "Shares a pretrained transformer across heterogeneous proprioceptive and visual robot data.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "30 Sep 2024",
+      "first_author": "Lirui Wang"
+    },
+    {
+      "id": "n072",
+      "title": "The Essential Role of Causality in Foundation World Models for Embodied AI",
+      "url": "https://arxiv.org/abs/2402.06665v2",
+      "summary": "Argues for causal structure in foundation world models for physical interaction; a viewpoint paper.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "perspective",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "6 Feb 2024",
+      "first_author": "Tarun Gupta",
+      "caution": "Viewpoint paper; not an evaluated robotic controller."
+    },
+    {
+      "id": "n069",
+      "title": "The One RING: a Robotic Indoor Navigation Generalist",
+      "url": "https://arxiv.org/abs/2412.14401v2",
+      "summary": "Randomizes robot bodies and camera configurations to learn shared indoor semantic navigation.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "18 Dec 2024",
+      "first_author": "Ainaz Eftekhar"
+    },
+    {
+      "id": "n017",
+      "title": "TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2409.12514",
+      "summary": "Combines compact vision-language representations and action generation for efficient manipulation.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "19 Sep 2024",
+      "first_author": "Junjie Wen"
+    },
+    {
+      "id": "n059",
+      "title": "TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies",
+      "url": "https://arxiv.org/abs/2412.10345v3",
+      "summary": "Adds visual trajectory traces to improve a policy's spatial and temporal context.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "13 Dec 2024",
+      "first_author": "Ruijie Zheng"
+    },
+    {
+      "id": "n027",
+      "title": "Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots",
+      "url": "https://arxiv.org/abs/2402.10329",
+      "summary": "Collects portable manipulation demonstrations through a handheld teaching interface.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "method",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "15 Feb 2024",
+      "first_author": "Cheng Chi"
+    },
+    {
+      "id": "r062",
+      "title": "Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations",
+      "url": "https://arxiv.org/abs/2412.14803v2",
+      "summary": "Uses predictive visual representations for generalist robot manipulation.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "19 Dec 2024",
+      "first_author": "Yucheng Hu"
+    },
+    {
+      "id": "n080",
+      "title": "VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks",
+      "url": "https://arxiv.org/abs/2412.18194v1",
+      "summary": "Tests language-conditioned manipulation, implicit instructions and long-horizon reasoning.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "24 Dec 2024",
+      "first_author": "Shiduo Zhang"
+    },
+    {
+      "id": "n073",
+      "title": "WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making",
+      "url": "https://arxiv.org/abs/2411.05619v1",
+      "summary": "Addresses world-model distribution shift and uncertainty through behavior conditioning and rollout retracing.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "8 Nov 2024",
+      "first_author": "Zhilong Zhang"
+    },
+    {
+      "id": "n057",
+      "title": "What Matters in Building Vision-Language-Action Models for Generalist Robots",
+      "url": "https://arxiv.org/abs/2412.14058v4",
+      "summary": "Studies the effects of VLM backbones, action architectures and cross-embodiment training data.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "18 Dec 2024",
+      "first_author": "Xinghang Li"
+    },
+    {
+      "id": "r014",
+      "title": "π0: A Vision-Language-Action Flow Model for General Robot Control",
+      "url": "https://arxiv.org/abs/2410.24164",
+      "summary": "Combines vision-language representations with flow-based continuous action generation for general robot control.",
+      "year": 2024,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      },
+      "related_url": "https://www.pi.website/blog/pi0"
+    },
+    {
+      "id": "n046",
+      "title": "An Embodied Generalist Agent in 3D World",
+      "url": "https://arxiv.org/abs/2311.12871v3",
+      "summary": "Uses a common 3D instruction interface for perception, reasoning, navigation and manipulation.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "18 Nov 2023",
+      "first_author": "Jiangyong Huang"
+    },
+    {
+      "id": "r077",
+      "title": "BridgeData V2: A Dataset for Robot Learning at Scale",
+      "url": "https://arxiv.org/abs/2308.12952v3",
+      "summary": "Provides a diverse manipulation dataset for large-scale robot learning.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "dataset",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "24 Aug 2023",
+      "first_author": "Homer Walke"
+    },
+    {
+      "id": "n074",
+      "title": "GenSim: Generating Robotic Simulation Tasks via Large Language Models",
+      "url": "https://arxiv.org/abs/2310.01361v2",
+      "summary": "Uses language models to generate robot simulation tasks and training demonstrations.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "infrastructure",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "2 Oct 2023",
+      "first_author": "Lirui Wang"
+    },
+    {
+      "id": "r063",
+      "title": "Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training",
+      "url": "https://arxiv.org/abs/2307.07909v3",
+      "summary": "Combines imitation pretraining with downstream reinforcement learning for generalized decision-making.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "16 Jul 2023",
+      "first_author": "Yao Wei"
+    },
+    {
+      "id": "r051",
+      "title": "Learning Universal Policies via Text-Guided Video Generation",
+      "url": "https://arxiv.org/abs/2302.00111v3",
+      "summary": "Connects language-guided video generation with executable actions through inverse dynamics.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "31 Jan 2023",
+      "first_author": "Yilun Du"
+    },
+    {
+      "id": "r057",
+      "title": "LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning",
+      "url": "https://arxiv.org/abs/2306.03310v2",
+      "summary": "Evaluates lifelong robot learning and transfer across multiple forms of task knowledge.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "5 Jun 2023",
+      "first_author": "Bo Liu"
+    },
+    {
+      "id": "r059",
+      "title": "ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills",
+      "url": "https://arxiv.org/abs/2302.04659v1",
+      "summary": "Provides a unified manipulation simulation benchmark with varied tasks and objects.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "9 Feb 2023",
+      "first_author": "Jiayuan Gu"
+    },
+    {
+      "id": "n003",
+      "title": "NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration",
+      "url": "https://arxiv.org/abs/2310.07896",
+      "summary": "Uses goal-masked diffusion policies to combine goal-directed navigation and exploration.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "11 Oct 2023",
+      "first_author": "Ajay Sridhar"
+    },
+    {
+      "id": "n026",
+      "title": "On Bringing Robots Home",
+      "url": "https://arxiv.org/abs/2311.16098v1",
+      "summary": "Studies scalable home robot learning with portable demonstrations and downstream adaptation.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "27 Nov 2023",
+      "first_author": "Nur Muhammad Mahi Shafiullah"
+    },
+    {
+      "id": "r002",
+      "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models",
+      "url": "https://arxiv.org/abs/2310.08864",
+      "summary": "Provides a multi-robot dataset and RT-X models for studying cross-embodiment learning.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "dataset",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      },
+      "related_url": "https://robotics-transformer-x.github.io/"
+    },
+    {
+      "id": "n062",
+      "title": "Open-World Object Manipulation using Pre-trained Vision-Language Models",
+      "url": "https://arxiv.org/abs/2303.00905v2",
+      "summary": "Grounds object descriptions with pretrained vision-language features for open-world manipulation.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "2 Mar 2023",
+      "first_author": "Austin Stone"
+    },
+    {
+      "id": "n022",
+      "title": "PaLM-E: An Embodied Multimodal Language Model",
+      "url": "https://arxiv.org/abs/2303.03378",
+      "summary": "Integrates robot observations into a large multimodal language model for embodied tasks.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "6 Mar 2023",
+      "first_author": "Danny Driess"
+    },
+    {
+      "id": "r031",
+      "title": "PI-QT-Opt: Predictive Information Improves Multi-Task Robotic Reinforcement Learning at Scale",
+      "url": "https://proceedings.mlr.press/v205/lee23a.html",
+      "summary": "Adds predictive-information learning to large-scale multi-task robotic reinforcement learning.",
+      "year": 2023,
+      "year_basis": "record-year",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      },
+      "publication_note": "CoRL 2022; PMLR proceedings published in 2023"
+    },
+    {
+      "id": "r052",
+      "title": "RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking",
+      "url": "https://arxiv.org/abs/2309.01918v1",
+      "summary": "Combines semantic augmentation and action chunking for efficient manipulation learning.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "5 Sep 2023",
+      "first_author": "Homanga Bharadhwaj"
+    },
+    {
+      "id": "r032",
+      "title": "RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2306.11706v2",
+      "summary": "Uses multi-robot manipulation experience and iterative data collection to improve a generalist agent.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "20 Jun 2023",
+      "first_author": "Konstantinos Bousmalis"
+    },
+    {
+      "id": "r017",
+      "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+      "url": "https://arxiv.org/abs/2307.15818",
+      "summary": "Transfers web-derived semantic knowledge into robot actions through vision-language-action training.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      },
+      "related_url": "https://robotics-transformer2.github.io/"
+    },
+    {
+      "id": "n021",
+      "title": "RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches",
+      "url": "https://arxiv.org/abs/2311.01977",
+      "summary": "Conditions robot behavior on task trajectories represented as sketches.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "3 Nov 2023",
+      "first_author": "Jiayuan Gu"
+    },
+    {
+      "id": "r064",
+      "title": "Skill Transformer: A Monolithic Policy for Mobile Manipulation",
+      "url": "https://arxiv.org/abs/2308.09873v1",
+      "summary": "Uses a monolithic transformer policy for sequential mobile manipulation.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "19 Aug 2023",
+      "first_author": "Xiaoyu Huang"
+    },
+    {
+      "id": "n071",
+      "title": "Structured World Models from Human Videos",
+      "url": "https://arxiv.org/abs/2308.10901v1",
+      "summary": "Transfers human-video affordances and world-model knowledge through downstream robot interaction.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "21 Aug 2023",
+      "first_author": "Russell Mendonca"
+    },
+    {
+      "id": "r034",
+      "title": "TD-MPC2: Scalable, Robust World Models for Continuous Control",
+      "url": "https://arxiv.org/abs/2310.16828v2",
+      "summary": "Scales latent world models for multi-task continuous control.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "25 Oct 2023",
+      "first_author": "Nicklas Hansen"
+    },
+    {
+      "id": "r020",
+      "title": "Universal Morphology Control via Contextual Modulation",
+      "url": "https://proceedings.mlr.press/v202/xiong23a.html",
+      "summary": "Conditions universal morphology control through contextual modulation.",
+      "year": 2023,
+      "year_basis": "record-year",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      }
+    },
+    {
+      "id": "n047",
+      "title": "Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation",
+      "url": "https://arxiv.org/abs/2312.13139v2",
+      "summary": "Transfers video generative pretraining into joint future-image and manipulation-action prediction.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "20 Dec 2023",
+      "first_author": "Hongtao Wu"
+    },
+    {
+      "id": "n002",
+      "title": "ViNT: A Foundation Model for Visual Navigation",
+      "url": "https://arxiv.org/abs/2306.14846v2",
+      "summary": "Pretrains a visual navigation model for adaptation to downstream robot tasks.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "26 Jun 2023",
+      "first_author": "Dhruv Shah"
+    },
+    {
+      "id": "n015",
+      "title": "Vision-Language Foundation Models as Effective Robot Imitators",
+      "url": "https://arxiv.org/abs/2311.01378v3",
+      "summary": "Adapts a pretrained vision-language model into a language-conditioned robot imitation policy.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "2 Nov 2023",
+      "first_author": "Xinghang Li"
+    },
+    {
+      "id": "n024",
+      "title": "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models",
+      "url": "https://arxiv.org/abs/2307.05973",
+      "summary": "Builds composable 3D value maps from language and visual observations for manipulation.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "12 Jul 2023",
+      "first_author": "Wenlong Huang"
+    },
+    {
+      "id": "n030",
+      "title": "Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?",
+      "url": "https://arxiv.org/abs/2303.18240",
+      "summary": "Evaluates general visual representations across embodied tasks through CortexBench and VC-1.",
+      "year": 2023,
+      "year_basis": "first-preprint",
+      "resource_type": "method",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "31 Mar 2023",
+      "first_author": "Arjun Majumdar"
+    },
+    {
+      "id": "r040",
+      "title": "A Generalist Agent",
+      "url": "https://arxiv.org/abs/2205.06175v3",
+      "summary": "Uses a common sequence-modeling formulation across language, games and robotic manipulation.",
+      "year": 2022,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "12 May 2022",
+      "first_author": "Scott Reed"
+    },
+    {
+      "id": "n010",
+      "title": "AnyMorph: Learning Transferable Polices By Inferring Agent Morphology",
+      "url": "https://arxiv.org/abs/2206.12279",
+      "summary": "Infers agent morphology to support transferable control policies.",
+      "year": 2022,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "17 Jun 2022",
+      "first_author": "Brandon Trabucco"
+    },
+    {
+      "id": "n087",
+      "title": "CERBERUS in the DARPA Subterranean Challenge",
+      "url": "https://doi.org/10.1126/scirobotics.abp9742",
+      "summary": "Reports the technologies and deployment strategy behind CERBERUS's SubT finals performance.",
+      "year": 2022,
+      "year_basis": "record-year",
+      "resource_type": "system",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-manuscript-checked"
+      },
+      "caution": "Overlaps the CERBERUS deployment studied in the technical overview; not an independent replication."
+    },
+    {
+      "id": "n023",
+      "title": "Code as Policies: Language Model Programs for Embodied Control",
+      "url": "https://arxiv.org/abs/2209.07753",
+      "summary": "Generates programs that compose perception and control interfaces for robot tasks.",
+      "year": 2022,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "16 Sep 2022",
+      "first_author": "Jacky Liang"
+    },
+    {
+      "id": "r049",
+      "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
+      "url": "https://arxiv.org/abs/2204.01691v2",
+      "summary": "Grounds language-model task proposals in robot skill affordances.",
+      "year": 2022,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "4 Apr 2022",
+      "first_author": "Michael Ahn"
+    },
+    {
+      "id": "n001",
+      "title": "GNM: A General Navigation Model to Drive Any Robot",
+      "url": "https://arxiv.org/abs/2210.03370",
+      "summary": "Learns visual navigation from heterogeneous robot datasets through a shared goal-reaching formulation.",
+      "year": 2022,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "7 Oct 2022",
+      "first_author": "Dhruv Shah"
+    },
+    {
+      "id": "r019",
+      "title": "MetaMorph: Learning Universal Controllers with Transformers",
+      "url": "https://arxiv.org/abs/2203.11931v1",
+      "summary": "Uses morphology descriptions and transformer attention to control diverse simulated bodies.",
+      "year": 2022,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "22 Mar 2022",
+      "first_author": "Agrim Gupta"
+    },
+    {
+      "id": "n029",
+      "title": "R3M: A Universal Visual Representation for Robot Manipulation",
+      "url": "https://arxiv.org/abs/2203.12601",
+      "summary": "Learns reusable visual features for downstream robot manipulation.",
+      "year": 2022,
+      "year_basis": "first-preprint",
+      "resource_type": "method",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "23 Mar 2022",
+      "first_author": "Suraj Nair"
+    },
+    {
+      "id": "r118",
+      "title": "Resilient and Modular Subterranean Exploration with a Team of Roving and Flying Robots",
+      "url": "https://www.cs.cmu.edu/~kaess/pub/Scherer22fr.html",
+      "summary": "Describes modular autonomy and field deployment with roving and flying exploration robots.",
+      "year": 2022,
+      "year_basis": "record-year",
+      "resource_type": "system",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-page-checked"
+      }
+    },
+    {
+      "id": "r041",
+      "title": "RT-1: Robotics Transformer for Real-World Control at Scale",
+      "url": "https://arxiv.org/abs/2212.06817v2",
+      "summary": "Learns language-conditioned robot actions from large-scale multi-task demonstrations.",
+      "year": 2022,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "13 Dec 2022",
+      "first_author": "Anthony Brohan"
+    },
+    {
+      "id": "r105",
+      "title": "Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview and Lessons Learned",
+      "url": "https://arxiv.org/abs/2207.04914",
+      "summary": "Documents the CERBERUS system, heterogeneous robot deployment and lessons from the SubT finals.",
+      "year": 2022,
+      "year_basis": "first-preprint",
+      "resource_type": "system",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "11 Jul 2022",
+      "first_author": "Marco Tranzatto"
+    },
+    {
+      "id": "r050",
+      "title": "VIMA: General Robot Manipulation with Multimodal Prompts",
+      "url": "https://arxiv.org/abs/2210.03094v2",
+      "summary": "Studies general manipulation through multimodal prompts and structured task variations.",
+      "year": 2022,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "6 Oct 2022",
+      "first_author": "Yunfan Jiang"
+    },
+    {
+      "id": "r076",
+      "title": "Bridge Data: Boosting Generalization of Robotic Skills with Cross-Domain Datasets",
+      "url": "https://arxiv.org/abs/2109.13396v1",
+      "summary": "Studies skill generalization using demonstrations collected across domains.",
+      "year": 2021,
+      "year_basis": "first-preprint",
+      "resource_type": "dataset",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "27 Sep 2021",
+      "first_author": "Frederik Ebert"
+    },
+    {
+      "id": "r055",
+      "title": "CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks",
+      "url": "https://arxiv.org/abs/2112.03227v4",
+      "summary": "Evaluates language-conditioned manipulation and long-horizon task composition.",
+      "year": 2021,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "6 Dec 2021",
+      "first_author": "Oier Mees"
+    },
+    {
+      "id": "r030",
+      "title": "MT-Opt: Continuous Multi-Task Robotic Reinforcement Learning at Scale",
+      "url": "https://arxiv.org/abs/2104.08212v2",
+      "summary": "Scales multi-task robotic reinforcement learning using shared experience and automated data collection.",
+      "year": 2021,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "16 Apr 2021",
+      "first_author": "Dmitry Kalashnikov"
+    },
+    {
+      "id": "r117",
+      "title": "NeBula: Quest for Robotic Autonomy in Challenging Environments; TEAM CoSTAR at the DARPA Subterranean Challenge",
+      "url": "https://arxiv.org/abs/2103.11470v4",
+      "summary": "Presents the NeBula autonomy framework and CoSTAR's heterogeneous subterranean exploration system.",
+      "year": 2021,
+      "year_basis": "first-preprint",
+      "resource_type": "system",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "21 Mar 2021",
+      "first_author": "Ali Agha"
+    },
+    {
+      "id": "n109",
+      "title": "Concept2Robot: Learning Manipulation Concepts from Instructions and Human Demonstrations",
+      "url": "https://www.roboticsproceedings.org/rss16/p082.html",
+      "summary": "Distills manipulation specialists into one language-conditioned policy covering diverse tasks, using rewards derived from human action videos.",
+      "year": 2020,
+      "year_basis": "record-year",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-06",
+        "status": "primary-page-checked"
+      },
+      "first_author": "Lin Shao",
+      "publication_note": "RSS 2020"
+    },
+    {
+      "id": "n105",
+      "title": "Language Conditioned Imitation Learning over Unstructured Data",
+      "url": "https://arxiv.org/abs/2005.07648v2",
+      "summary": "Trains one language-conditioned visuomotor policy on structured and unstructured play to execute multiple manipulation skills and follow new instructions.",
+      "year": 2020,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-06",
+        "status": "primary-record-checked"
+      },
+      "first_author": "Corey Lynch and Pierre Sermanet",
+      "publication_note": "RSS 2021",
+      "first_submitted": "15 May 2020"
+    },
+    {
+      "id": "n106",
+      "title": "Learning to Generalize Across Long-Horizon Tasks from Human Demonstrations",
+      "url": "https://arxiv.org/abs/2003.06085v2",
+      "summary": "Composes intersecting demonstration trajectories into goal-directed policies that generalize to unseen long-horizon start and goal combinations.",
+      "year": 2020,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-06",
+        "status": "primary-record-checked"
+      },
+      "first_author": "Ajay Mandlekar",
+      "publication_note": "RSS 2020",
+      "first_submitted": "13 Mar 2020"
+    },
+    {
+      "id": "n104",
+      "title": "Multi-Task Reinforcement Learning with Soft Modularization",
+      "url": "https://arxiv.org/abs/2003.13661v2",
+      "summary": "Learns task-conditioned routing through shared policy modules to improve multi-task robotic manipulation and reduce interference.",
+      "year": 2020,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-06",
+        "status": "primary-record-checked"
+      },
+      "first_author": "Ruihan Yang",
+      "publication_note": "NeurIPS 2020",
+      "first_submitted": "30 Mar 2020"
+    },
+    {
+      "id": "n103",
+      "title": "My Body is a Cage: the Role of Morphology in Graph-Based Incompatible Control",
+      "url": "https://arxiv.org/abs/2010.01856v2",
+      "summary": "Studies shared control across incompatible body structures and introduces Amorpheus, a transformer policy without a fixed morphology-based message-passing graph.",
+      "year": 2020,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-06",
+        "status": "primary-record-checked"
+      },
+      "first_author": "Vitaly Kurin",
+      "publication_note": "ICLR 2021",
+      "first_submitted": "5 Oct 2020"
+    },
+    {
+      "id": "n008",
+      "title": "One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control",
+      "url": "https://arxiv.org/abs/2007.04976",
+      "summary": "Uses shared modular policies for control across different agent morphologies.",
+      "year": 2020,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "9 Jul 2020",
+      "first_author": "Wenlong Huang"
+    },
+    {
+      "id": "n107",
+      "title": "Scalable Multi-Task Imitation Learning with Autonomous Improvement",
+      "url": "https://arxiv.org/abs/2003.02636v1",
+      "summary": "Improves multi-task imitation policies through autonomous trials, sparse success labels and a shared task-embedding space for new-task generalization.",
+      "year": 2020,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-06",
+        "status": "primary-record-checked"
+      },
+      "first_author": "Avi Singh",
+      "publication_note": "ICRA 2020",
+      "first_submitted": "25 Feb 2020"
+    },
+    {
+      "id": "n108",
+      "title": "ViNG: Learning Open-World Navigation with Visual Goals",
+      "url": "https://arxiv.org/abs/2012.09812v2",
+      "summary": "Combines a shared visual goal-conditioned navigation policy with topological search to reach different destinations and transfer to new environments.",
+      "year": 2020,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-06",
+        "status": "primary-record-checked"
+      },
+      "first_author": "Dhruv Shah",
+      "publication_note": "ICRA 2021",
+      "first_submitted": "17 Dec 2020"
+    },
+    {
+      "id": "n009",
+      "title": "Learning to Control Self-Assembling Morphologies: A Study of Generalization via Modularity",
+      "url": "https://arxiv.org/abs/1902.05546",
+      "summary": "Studies morphological generalization through modular control of self-assembling bodies.",
+      "year": 2019,
+      "year_basis": "first-preprint",
+      "resource_type": "paper",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "14 Feb 2019",
+      "first_author": "Deepak Pathak"
+    },
+    {
+      "id": "r067",
+      "title": "Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning",
+      "url": "https://arxiv.org/abs/1910.10897v2",
+      "summary": "Provides task suites for multi-task and meta-reinforcement learning.",
+      "year": 2019,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "24 Oct 2019",
+      "first_author": "Tianhe Yu"
+    },
+    {
+      "id": "r056",
+      "title": "RLBench: The Robot Learning Benchmark & Learning Environment",
+      "url": "https://arxiv.org/abs/1909.12271v1",
+      "summary": "Provides a manipulation learning environment with reusable tasks and demonstrations.",
+      "year": 2019,
+      "year_basis": "first-preprint",
+      "resource_type": "benchmark",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "26 Sep 2019",
+      "first_author": "Stephen James"
+    },
+    {
+      "id": "r069",
+      "title": "RoboNet: Large-Scale Multi-Robot Learning",
+      "url": "https://arxiv.org/abs/1910.11215v2",
+      "summary": "Pools multi-robot interaction data for visual dynamics and robot learning.",
+      "year": 2019,
+      "year_basis": "first-preprint",
+      "resource_type": "dataset",
+      "record_check": {
+        "date": "2026-11-05",
+        "status": "primary-record-checked"
+      },
+      "first_submitted": "24 Oct 2019",
+      "first_author": "Sudeep Dasari"
+    }
+  ]
+}
