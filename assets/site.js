@@ -8,14 +8,15 @@
   const empty = document.querySelector('#empty');
   const sections = [...document.querySelectorAll('.year-section')];
   const total = document.querySelectorAll('.paper').length;
+  const normalize = value => value.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase().replace(/ß/g, 'ss');
   function filter() {
-    const terms = search.value.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
+    const terms = normalize(search.value).trim().split(/\s+/).filter(Boolean);
     let visible = 0;
     for (const section of sections) {
       let count = 0;
       const matchesYear = year.value === 'all' || year.value === section.dataset.year;
       for (const paper of section.querySelectorAll('.paper')) {
-        const matches = matchesYear && terms.every(term => paper.dataset.search.includes(term));
+        const matches = matchesYear && terms.every(term => normalize(paper.dataset.search).includes(term));
         paper.hidden = !matches;
         if (matches) count++;
       }

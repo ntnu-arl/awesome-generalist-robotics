@@ -57,6 +57,15 @@ def validate(data):
         assert e['record_check']['status'] in STATUSES, f'{ident}: unknown check status'
         assert date.fromisoformat(e['record_check']['date']) <= updated, f'{ident}: check date after update'
         assert len(e['summary'].split()) <= 45, f'{ident}: summary is too long'
+        assert 'authors' in e or (e['resource_type'] == 'project' and e.get('authors_note')), f'{ident}: missing author list or project explanation'
+        if 'authors' in e:
+            assert isinstance(e['authors'], list) and e['authors'], f'{ident}: empty author list'
+            assert all(isinstance(a, str) and a.strip() == a and a and '\n' not in a for a in e['authors']), f'{ident}: invalid author name'
+            assert e['first_author'] == e['authors'][0], f'{ident}: first author differs from author list'
+            check = e['authors_check']
+            assert date.fromisoformat(check['date']) <= updated, f'{ident}: author check after update'
+            assert urlsplit(check['source']).scheme == 'https', f'{ident}: invalid author source'
+
 
 
 def entry(e):

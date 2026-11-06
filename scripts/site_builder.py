@@ -22,10 +22,13 @@ def render_site(data):
         for e in entries:
             if e['year'] != year:
                 continue
-            search = ' '.join(str(e.get(k, '')) for k in ('title', 'summary', 'first_author', 'publication_note')).lower()
+            search = ' '.join([str(e.get(k, '')) for k in ('title', 'summary', 'first_author', 'publication_note')] + e.get('authors', [])).lower()
+            authors = e.get('authors', [])
+            author_line = ('<details class="authors"><summary>' + str(len(authors)) + (' author' if len(authors) == 1 else ' authors') + '</summary><p>' + esc('; '.join(authors)) + '</p></details>') if authors else '<p class="author-unavailable">' + esc(e.get('authors_note', 'Author list not yet verified.')) + '</p>'
             records.append(f'''<article class="paper" id="{esc(e['id'])}" data-search="{esc(search, quote=True)}">
 <div class="paper-meta"><span>{label}</span><span>{esc(e['resource_type'].capitalize())}</span></div>
 <h3><a href="{esc(e['url'], quote=True)}">{esc(e['title'])}</a></h3>
+{author_line}
 <p>{esc(e['summary'])}</p>
 <a class="paper-link" href="{esc(e['url'], quote=True)}">Read {"project" if e['resource_type'] == "project" else "paper"} <span aria-hidden="true">↗</span></a>
 </article>''')

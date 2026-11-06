@@ -16,7 +16,9 @@ Edit [data/catalog.json](data/catalog.json). Keep existing IDs stable and follow
 | `resource_type` | `paper`, `survey`, `system`, `perspective`, `dataset`, `benchmark`, `infrastructure`, `method`, or `project`. |
 | `record_check` | Check date and [verification status](docs/curation.md). |
 
-Optional fields include `related_url`, `publication_note`, `first_author`, `first_submitted` and editorial `caution` notes. Caution notes are not displayed in the reading lists.
+Add `authors` as the complete ordered list from the primary record, with `first_author` matching its first name. Record the source URL and check date in `authors_check`. All listed authors are searchable on the website.
+
+Optional fields include `related_url`, `publication_note`, `first_submitted` and editorial `caution` notes. Caution notes are not displayed in the reading lists.
 
 Summarize the contribution without promotional language. Distinguish shared weights from shared methods, and simulation from hardware results. Follow the [curation policy](docs/curation.md).
 

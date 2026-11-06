@@ -16,7 +16,17 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "30 Jun 2026",
-      "first_author": "Jagdeep Singh Bhatia"
+      "first_author": "Jagdeep Singh Bhatia",
+      "authors": [
+        "Jagdeep Singh Bhatia",
+        "Andrew Wagenmaker",
+        "William Chen",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2606.31958v1"
+      }
     },
     {
       "id": "n005",
@@ -31,7 +41,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "2 Jun 2026",
-      "first_author": "Zian Liu"
+      "first_author": "Zian Liu",
+      "authors": [
+        "Zian Liu",
+        "Andong Yang",
+        "Chunkai Yang",
+        "Ruidong An",
+        "Chao Gao",
+        "Guyue Zhou"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2606.03252v1"
+      }
     },
     {
       "id": "n088",
@@ -46,7 +68,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "3 Nov 2026",
-      "first_author": "Sombit Dey"
+      "first_author": "Sombit Dey",
+      "authors": [
+        "Sombit Dey",
+        "Luc Van Gool",
+        "Danda Pani Paudel"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2611.05155v1"
+      }
     },
     {
       "id": "n102",
@@ -61,7 +92,20 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "14 Jan 2026",
-      "first_author": "Tong Wu"
+      "first_author": "Tong Wu",
+      "authors": [
+        "Tong Wu",
+        "Shoujie Li",
+        "Junhao Gong",
+        "Changqing Guo",
+        "Xingting Li",
+        "Shilong Mu",
+        "Wenbo Ding"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2601.09163v1"
+      }
     },
     {
       "id": "n094",
@@ -76,7 +120,15 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "27 Aug 2026",
-      "first_author": "Kechen Liu"
+      "first_author": "Kechen Liu",
+      "authors": [
+        "Kechen Liu",
+        "Ola Shorinwa"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2608.27406v2"
+      }
     },
     {
       "id": "n033",
@@ -91,7 +143,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "15 Oct 2026",
-      "first_author": "Xingyu Zhang"
+      "first_author": "Xingyu Zhang",
+      "authors": [
+        "Xingyu Zhang",
+        "Yingchao Li",
+        "Peizheng Guo",
+        "Jie Hu",
+        "Changwen Zheng",
+        "Wenwen Qiang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2610.21798v1"
+      }
     },
     {
       "id": "n090",
@@ -106,7 +170,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "30 Oct 2026",
-      "first_author": "Zhidong Wang"
+      "first_author": "Zhidong Wang",
+      "authors": [
+        "Zhidong Wang",
+        "Zirui Li",
+        "Haoran Xu",
+        "Yujie Yan",
+        "Zitong Shan",
+        "Jingsong Liang",
+        "Han Yu",
+        "Chen Lv"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2610.41330v1"
+      }
     },
     {
       "id": "n100",
@@ -121,7 +199,17 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "20 Feb 2026",
-      "first_author": "Haruki Abe"
+      "first_author": "Haruki Abe",
+      "authors": [
+        "Haruki Abe",
+        "Takayuki Osa",
+        "Yusuke Mukuta",
+        "Tatsuya Harada"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2602.18025v1"
+      }
     },
     {
       "id": "r011",
@@ -136,7 +224,25 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "7 Oct 2026",
-      "first_author": "Huang Huang"
+      "first_author": "Huang Huang",
+      "authors": [
+        "Huang Huang",
+        "Sriram Yenamandra",
+        "Arjun Majumdar",
+        "Elie Aljalbout",
+        "Tushar Nagarajan",
+        "Tsung-Yen Yang",
+        "Akshara Rai",
+        "Michael Rabbat",
+        "Li Fei-Fei",
+        "Jiajun Wu",
+        "Tingfan Wu",
+        "Franziska Meier"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2610.10846v1"
+      }
     },
     {
       "id": "n012",
@@ -151,7 +257,18 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "3 Feb 2026",
-      "first_author": "Quanquan Peng"
+      "first_author": "Quanquan Peng",
+      "authors": [
+        "Quanquan Peng",
+        "Yunfeng Lin",
+        "Yufei Xue",
+        "Jiangmiao Pang",
+        "Weinan Zhang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2602.02960v2"
+      }
     },
     {
       "id": "r007",
@@ -167,7 +284,17 @@
       },
       "first_submitted": "9 Jun 2026",
       "first_author": "Orestis Konstantaropoulos",
-      "caution": "Policies have fixed rotor counts; quadrotor and hexarotor studies use separate weights."
+      "caution": "Policies have fixed rotor counts; quadrotor and hexarotor studies use separate weights.",
+      "authors": [
+        "Orestis Konstantaropoulos",
+        "Welf Rehberg",
+        "Mihir Kulkarni",
+        "Kostas Alexis"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2606.10857v1"
+      }
     },
     {
       "id": "n037",
@@ -182,7 +309,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "16 Sep 2026",
-      "first_author": "Runjia Tan"
+      "first_author": "Runjia Tan",
+      "authors": [
+        "Runjia Tan",
+        "Yuang Tu",
+        "Yujie Yan",
+        "Lan Yu",
+        "Xuesong Tian",
+        "Chen Lv"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2609.18651v1"
+      }
     },
     {
       "id": "n031",
@@ -197,7 +336,20 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "29 Jun 2026",
-      "first_author": "Jianxin Bi"
+      "first_author": "Jianxin Bi",
+      "authors": [
+        "Jianxin Bi",
+        "Qiang Wang",
+        "Jayaram Reddy",
+        "Kelvin Lin",
+        "Soibkhon Khajikhanov",
+        "Ruihan Gao",
+        "Harold Soh"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2606.29948v2"
+      }
     },
     {
       "id": "n007",
@@ -212,7 +364,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "14 Mar 2026",
-      "first_author": "Jie Chen"
+      "first_author": "Jie Chen",
+      "authors": [
+        "Jie Chen",
+        "Yuxin Cai",
+        "Yizhuo Wang",
+        "Ruofei Bai",
+        "Yuhong Cao",
+        "Jun Li",
+        "Wei-Yun Yau",
+        "Guillaume Sartoretti"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2603.13833v2"
+      }
     },
     {
       "id": "n098",
@@ -227,7 +393,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "20 Jun 2026",
-      "first_author": "Qianxu Wang"
+      "first_author": "Qianxu Wang",
+      "authors": [
+        "Qianxu Wang",
+        "Shengmiao Samuel Jin",
+        "Kuan Fang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2606.22113v2"
+      }
     },
     {
       "id": "n092",
@@ -242,7 +417,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "18 Sep 2026",
-      "first_author": "Yiqi Wang"
+      "first_author": "Yiqi Wang",
+      "authors": [
+        "Yiqi Wang",
+        "Mrinal Verghese",
+        "Jeff Schneider"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2609.22521v2"
+      }
     },
     {
       "id": "r080",
@@ -257,7 +441,33 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "24 Aug 2026",
-      "first_author": "Brian Zhu"
+      "first_author": "Brian Zhu",
+      "authors": [
+        "Brian Zhu",
+        "Momen Khalil",
+        "E Harrison",
+        "Emanuele Poggi",
+        "Philipp Schmitt",
+        "Bernd Kast",
+        "Philine Meister",
+        "Pranav Atreya",
+        "Qiyang Li",
+        "Finn Ferchau",
+        "Cesar Colmenero",
+        "Yash Shahapurkar",
+        "Gokul Narayanan",
+        "Melih Erdogan",
+        "Kai Wurm",
+        "Georg von Wichert",
+        "Oier Mees",
+        "Eugen Solowjow",
+        "Andrew Wagenmaker",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2608.23831v2"
+      }
     },
     {
       "id": "r081",
@@ -272,7 +482,29 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "1 May 2026",
-      "first_author": "Yi Wang"
+      "first_author": "Yi Wang",
+      "authors": [
+        "Yi Wang",
+        "Xinchen Li",
+        "Pengwei Xie",
+        "Pu Yang",
+        "Buqing Nie",
+        "Yunuo Cai",
+        "Qinglin Zhang",
+        "Chendi Qu",
+        "Jeffrey Wu",
+        "Jianheng Song",
+        "Xinlin Ren",
+        "Jingshun Huang",
+        "Mingjie Pan",
+        "Siyuan Feng",
+        "Zhi Chen",
+        "Jianlan Luo"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2605.00416v4"
+      }
     },
     {
       "id": "r061",
@@ -287,7 +519,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "18 Apr 2026",
-      "first_author": "Xueyao Chen"
+      "first_author": "Xueyao Chen",
+      "authors": [
+        "Xueyao Chen",
+        "Jingkai Jia",
+        "Tong Yang",
+        "Yibo Fu",
+        "Wei Li",
+        "Wenqiang Zhang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2604.16788v1"
+      }
     },
     {
       "id": "r010",
@@ -302,7 +546,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "9 Apr 2026",
-      "first_author": "Mohamad H. Danesh"
+      "first_author": "Mohamad H. Danesh",
+      "authors": [
+        "Mohamad H. Danesh",
+        "Chenhao Li",
+        "Amin Abyaneh",
+        "Anas Houssaini",
+        "Kirsty Ellis",
+        "Glen Berseth",
+        "Marco Hutter",
+        "Hsiu-Chin Lin"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2604.08780v2"
+      }
     },
     {
       "id": "r018",
@@ -317,7 +575,17 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "4 Mar 2026",
-      "first_author": "Angelos Zacharia"
+      "first_author": "Angelos Zacharia",
+      "authors": [
+        "Angelos Zacharia",
+        "Mihir Dharmadhikari",
+        "Mohit Singh",
+        "Kostas Alexis"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2603.04284v2"
+      }
     },
     {
       "id": "n089",
@@ -332,7 +600,22 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "1 Nov 2026",
-      "first_author": "Dujun Nie"
+      "first_author": "Dujun Nie",
+      "authors": [
+        "Dujun Nie",
+        "Ruiqi Song",
+        "Zixuan Wang",
+        "Hanqing Wang",
+        "Yifan Han",
+        "Baiyong Ding",
+        "Wenzhao Zheng",
+        "Hangbin Wu",
+        "Long Chen"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2611.01844v1"
+      }
     },
     {
       "id": "r119",
@@ -347,7 +630,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "14 Oct 2026",
-      "first_author": "Hyunsik Oh"
+      "first_author": "Hyunsik Oh",
+      "authors": [
+        "Hyunsik Oh",
+        "Seunghun Jeon",
+        "Donghoon Youm",
+        "Jungwoo Hur",
+        "Hyeongjun Kim",
+        "Jeong Hyun Lee",
+        "Moonkyu Jung",
+        "Jemin Hwangbo"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2610.19615v1"
+      }
     },
     {
       "id": "n038",
@@ -362,7 +659,30 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "2 Mar 2026",
-      "first_author": "Anthony Liang"
+      "first_author": "Anthony Liang",
+      "authors": [
+        "Anthony Liang",
+        "Yigit Korkmaz",
+        "Jiahui Zhang",
+        "Minyoung Hwang",
+        "Abrar Anwar",
+        "Sidhant Kaushik",
+        "Aditya Shah",
+        "Alex S. Huang",
+        "Luke Zettlemoyer",
+        "Dieter Fox",
+        "Yu Xiang",
+        "Anqi Li",
+        "Andreea Bobu",
+        "Abhishek Gupta",
+        "Stephen Tu",
+        "Erdem Biyik",
+        "Jesse Zhang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2603.02115v2"
+      }
     },
     {
       "id": "n091",
@@ -377,7 +697,28 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "19 Oct 2026",
-      "first_author": "Tianqi Liu"
+      "first_author": "Tianqi Liu",
+      "authors": [
+        "Tianqi Liu",
+        "Hanfei Zhao",
+        "Qifeng Liang",
+        "Hui En Pang",
+        "Jiarui Xu",
+        "Sayang Mu",
+        "Penghao Qiu",
+        "YingSheng Zhang",
+        "Jun Wang",
+        "Ziang Cao",
+        "Mingze Sun",
+        "Yukang Cao",
+        "Fangzhou Hong",
+        "Zhaoxi Chen",
+        "Ziwei Liu"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2610.26855v1"
+      }
     },
     {
       "id": "n099",
@@ -392,7 +733,25 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "17 Jun 2026",
-      "first_author": "Wei-Cheng Tseng"
+      "first_author": "Wei-Cheng Tseng",
+      "authors": [
+        "Wei-Cheng Tseng",
+        "Gashon Hussein",
+        "Yuzhu Dong",
+        "Allen Z. Ren",
+        "Lucy X. Shi",
+        "XuDong Wang",
+        "Sergey Levine",
+        "Zhaoshuo Li",
+        "Jinwei Gu",
+        "Florian Shkurti",
+        "Ming-Yu Liu",
+        "Quan Vuong"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2606.18610v3"
+      }
     },
     {
       "id": "n101",
@@ -407,7 +766,22 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "5 Feb 2026",
-      "first_author": "Yufei Xue"
+      "first_author": "Yufei Xue",
+      "authors": [
+        "Yufei Xue",
+        "YunFeng Lin",
+        "Wentao Dong",
+        "Yang Tang",
+        "Jingbo Wang",
+        "Jiangmiao Pang",
+        "Ming Zhou",
+        "Minghuan Liu",
+        "Weinan Zhang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2602.05791v3"
+      }
     },
     {
       "id": "r008",
@@ -423,7 +797,15 @@
       },
       "first_submitted": "6 Oct 2026",
       "first_author": "Welf Rehberg",
-      "caution": "Sensor-layout transfer; joint arbitrary-body dynamics transfer is not established."
+      "caution": "Sensor-layout transfer; joint arbitrary-body dynamics transfer is not established.",
+      "authors": [
+        "Welf Rehberg",
+        "Kostas Alexis"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2610.08306v1"
+      }
     },
     {
       "id": "n028",
@@ -438,7 +820,18 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "23 Jun 2026",
-      "first_author": "Haeone Lee"
+      "first_author": "Haeone Lee",
+      "authors": [
+        "Haeone Lee",
+        "Byeongguk Jeon",
+        "Suchae Jeong",
+        "Jian Kim",
+        "Kimin Lee"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2606.24049v1"
+      }
     },
     {
       "id": "n044",
@@ -453,7 +846,23 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "19 Aug 2026",
-      "first_author": "Yukiyasu Domae"
+      "first_author": "Yukiyasu Domae",
+      "authors": [
+        "Yukiyasu Domae",
+        "Keisuke Shirai",
+        "Hanbit Oh",
+        "Ryoichi Nakajo",
+        "Tomohiro Motoda",
+        "Koshi Makihara",
+        "Masaki Murooka",
+        "Takuma Yagi",
+        "Yoshiaki Bando",
+        "Ryo Hanai"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2608.18433v1"
+      }
     },
     {
       "id": "r006",
@@ -468,7 +877,23 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "12 May 2026",
-      "first_author": "Mihir Dharmadhikari"
+      "first_author": "Mihir Dharmadhikari",
+      "authors": [
+        "Mihir Dharmadhikari",
+        "Nikhil Khedekar",
+        "Mihir Kulkarni",
+        "Morten Nissov",
+        "Martin Jacquet",
+        "Angelos Zacharia",
+        "Marvin Harms",
+        "Albert Gassol Puigjaner",
+        "Philipp Weiss",
+        "Kostas Alexis"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2605.12735v1"
+      }
     },
     {
       "id": "n006",
@@ -483,7 +908,20 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "13 Oct 2026",
-      "first_author": "Bowen Feng"
+      "first_author": "Bowen Feng",
+      "authors": [
+        "Bowen Feng",
+        "Keqin Wang",
+        "Yulong Yang",
+        "Amogh Joshi",
+        "Christine Allen-Blanchette",
+        "Dhruv Shah",
+        "Felix Heide"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2610.17593v1"
+      }
     },
     {
       "id": "r078",
@@ -496,6 +934,21 @@
       "record_check": {
         "date": "2026-11-05",
         "status": "primary-page-checked"
+      },
+      "authors": [
+        "Hadush Hailu",
+        "Bruk Gebregziabher",
+        "Kibrom Gebremedhin",
+        "Teklay Asmelash",
+        "Daniel Tesfay",
+        "Gebremedhin Genet",
+        "Siddhartha Gudipudi",
+        "Adisalem Hadush"
+      ],
+      "first_author": "Hadush Hailu",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://www.researchgate.net/publication/404391843_Training_Generalist_Robots_A_Meta-Analytic_Survey_of_Datasets_and_Foundation_Models"
       }
     },
     {
@@ -511,7 +964,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "28 Sep 2026",
-      "first_author": "Zihao Wang"
+      "first_author": "Zihao Wang",
+      "authors": [
+        "Zihao Wang",
+        "Shutong Liu",
+        "Siqi Zheng",
+        "Liu Cao",
+        "Ruoqu Chen",
+        "Rundong Liu",
+        "Yanchao Yang",
+        "Mengdi Xu"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2609.35450v2"
+      }
     },
     {
       "id": "r012",
@@ -526,7 +993,22 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "8 Oct 2026",
-      "first_author": "Mert Albaba"
+      "first_author": "Mert Albaba",
+      "authors": [
+        "Mert Albaba",
+        "Jens Beißwenger",
+        "Anna Manasyan",
+        "Daniel Marta",
+        "Michael J. Black",
+        "Wieland Brendel",
+        "Andreas Krause",
+        "Georg Martius",
+        "Martin Riedmiller"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2610.12435v1"
+      }
     },
     {
       "id": "n043",
@@ -541,7 +1023,23 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "24 Apr 2026",
-      "first_author": "Ziyao Wang"
+      "first_author": "Ziyao Wang",
+      "authors": [
+        "Ziyao Wang",
+        "Bingying Wang",
+        "Hanrong Zhang",
+        "Tingting Du",
+        "Tianyang Chen",
+        "Guoheng Sun",
+        "Yexiao He",
+        "Zheyu Shen",
+        "Wanghao Ye",
+        "Ang Li"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2604.23001v1"
+      }
     },
     {
       "id": "n096",
@@ -556,7 +1054,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "11 Aug 2026",
-      "first_author": "Shreyas Kowshik"
+      "first_author": "Shreyas Kowshik",
+      "authors": [
+        "Shreyas Kowshik",
+        "Sreyas Venkataraman",
+        "Leo Wang",
+        "Niharika Pant",
+        "Max Simchowitz",
+        "Aviral Kumar"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2608.11363v3"
+      }
     },
     {
       "id": "n034",
@@ -571,7 +1081,49 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "17 Feb 2026",
-      "first_author": "Seonghyeon Ye"
+      "first_author": "Seonghyeon Ye",
+      "authors": [
+        "Seonghyeon Ye",
+        "Yunhao Ge",
+        "Kaiyuan Zheng",
+        "Shenyuan Gao",
+        "Sihyun Yu",
+        "George Kurian",
+        "Suneel Indupuru",
+        "You Liang Tan",
+        "Chuning Zhu",
+        "Jiannan Xiang",
+        "Ayaan Malik",
+        "Kyungmin Lee",
+        "William Liang",
+        "Nadun Ranawaka",
+        "Jiasheng Gu",
+        "Yinzhen Xu",
+        "Guanzhi Wang",
+        "Fengyuan Hu",
+        "Avnish Narayan",
+        "Johan Bjorck",
+        "Jing Wang",
+        "Gwanghyun Kim",
+        "Dantong Niu",
+        "Ruijie Zheng",
+        "Yuqi Xie",
+        "Jimmy Wu",
+        "Qi Wang",
+        "Ryan Julian",
+        "Danfei Xu",
+        "Yilun Du",
+        "Yevgen Chebotar",
+        "Scott Reed",
+        "Jan Kautz",
+        "Yuke Zhu",
+        "Linxi \"Jim\" Fan",
+        "Joel Jang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2602.15922v1"
+      }
     },
     {
       "id": "r090",
@@ -586,7 +1138,29 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "13 Sep 2026",
-      "first_author": "Zuxing Lu"
+      "first_author": "Zuxing Lu",
+      "authors": [
+        "Zuxing Lu",
+        "Hongjia Zhai",
+        "Guanzhi Wang",
+        "Huajian Zeng",
+        "Jiaqi Yang",
+        "Jingyu Liu",
+        "Lei Cheng",
+        "Yuantai Zhang",
+        "Yuheng Qiu",
+        "Zezhou Cheng",
+        "Ivan Laptev",
+        "Danfei Xu",
+        "Benjamin Riviere",
+        "Giuseppe Loianno",
+        "Eric Xing",
+        "Xingxing Zuo"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2609.16074v1"
+      }
     },
     {
       "id": "n032",
@@ -601,7 +1175,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "28 Sep 2026",
-      "first_author": "Prithwish Dan"
+      "first_author": "Prithwish Dan",
+      "authors": [
+        "Prithwish Dan",
+        "Chenyang Ma",
+        "Wei Zhan"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2609.35715v1"
+      }
     },
     {
       "id": "n093",
@@ -616,7 +1199,30 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "2 Sep 2026",
-      "first_author": "Mi Yan"
+      "first_author": "Mi Yan",
+      "authors": [
+        "Mi Yan",
+        "Wenhao Zhang",
+        "Zhiqi Zhang",
+        "Yu Peng",
+        "Tangxinyu Wang",
+        "Lingfei Zhai",
+        "Jiayi Su",
+        "Shengliang Deng",
+        "Lin Peng",
+        "Yaowei Liu",
+        "Yuxing Chen",
+        "Zhiyuan Wei",
+        "Jilong Wang",
+        "Jiayi Chen",
+        "Jiangran Lyu",
+        "Zhizheng Zhang",
+        "He Wang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2609.02546v3"
+      }
     },
     {
       "id": "r122",
@@ -631,7 +1237,8 @@
         "status": "project-link-unresolved"
       },
       "caution": "The project URL was inaccessible during preparation; an author-page alternative is provided.",
-      "related_url": "https://anindex.github.io/"
+      "related_url": "https://anindex.github.io/",
+      "authors_note": "Project website lists team members, contributors and advisors, but no formal publication author list."
     },
     {
       "id": "n095",
@@ -646,7 +1253,52 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "17 Aug 2026",
-      "first_author": "Xiaowei Cai"
+      "first_author": "Xiaowei Cai",
+      "authors": [
+        "Xiaowei Cai",
+        "Yunuo Cai",
+        "Bingao Chen",
+        "Jingxiao Chen",
+        "Zhi Chen",
+        "Siyuan Feng",
+        "Tengyu Hou",
+        "Jingshun Huang",
+        "Han Jiang",
+        "Runkun Ju",
+        "Dong Li",
+        "Mingxiang Li",
+        "Shaowei Li",
+        "Xinchen Li",
+        "Yifan Li",
+        "Yi Liu",
+        "Zhongyuan Liu",
+        "Jianlan Luo",
+        "Junwen Miao",
+        "Ruiqi Ni",
+        "Buqing Nie",
+        "Mingjie Pan",
+        "Xinlin Ren",
+        "Jianheng Song",
+        "Jiaxu Wang",
+        "Peiqi Wang",
+        "Sen Wang",
+        "Xiaoyan Wang",
+        "Dafeng Wei",
+        "Dongming Wu",
+        "Pengwei Xie",
+        "Pu Yang",
+        "Hangjian Ye",
+        "Xiangyu Yue",
+        "Jinyu Zhang",
+        "Qinglin Zhang",
+        "Xueyong Zhao",
+        "Pengfei Zhou",
+        "Yue Zhou"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2608.16885v1"
+      }
     },
     {
       "id": "n042",
@@ -661,7 +1313,23 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "27 Oct 2025",
-      "first_author": "Zhaoshu Yu"
+      "first_author": "Zhaoshu Yu",
+      "authors": [
+        "Zhaoshu Yu",
+        "Bo Wang",
+        "Pengpeng Zeng",
+        "Haonan Zhang",
+        "Ji Zhang",
+        "Zheng Wang",
+        "Lianli Gao",
+        "Jingkuan Song",
+        "Nicu Sebe",
+        "Heng Tao Shen"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2510.24795v3"
+      }
     },
     {
       "id": "n041",
@@ -676,7 +1344,27 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "2 Jul 2025",
-      "first_author": "Yifan Zhong"
+      "first_author": "Yifan Zhong",
+      "authors": [
+        "Yifan Zhong",
+        "Fengshuo Bai",
+        "Shaofei Cai",
+        "Xuchuan Huang",
+        "Zhang Chen",
+        "Xiaowei Zhang",
+        "Yuanfei Wang",
+        "Shaoyang Guo",
+        "Tianrui Guan",
+        "Ka Nam Lui",
+        "Zhiquan Qi",
+        "Yitao Liang",
+        "Yuanpei Chen",
+        "Yaodong Yang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2507.01925v1"
+      }
     },
     {
       "id": "n070",
@@ -691,7 +1379,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "8 Jan 2025",
-      "first_author": "Joshua Jones"
+      "first_author": "Joshua Jones",
+      "authors": [
+        "Joshua Jones",
+        "Oier Mees",
+        "Carmelo Sferrazza",
+        "Kyle Stachowicz",
+        "Pieter Abbeel",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2501.04693v3"
+      }
     },
     {
       "id": "r088",
@@ -706,7 +1406,18 @@
         "status": "primary-page-checked"
       },
       "related_url": "https://ctrl-world.github.io/",
-      "publication_note": "ICLR 2026"
+      "publication_note": "ICLR 2026",
+      "authors": [
+        "Yanjiang Guo",
+        "Lucy Xiaoyang Shi",
+        "Jianyu Chen",
+        "Chelsea Finn"
+      ],
+      "first_author": "Yanjiang Guo",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2510.10125v3"
+      }
     },
     {
       "id": "n061",
@@ -721,7 +1432,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "9 Feb 2025",
-      "first_author": "Junjie Wen"
+      "first_author": "Junjie Wen",
+      "authors": [
+        "Junjie Wen",
+        "Yichen Zhu",
+        "Jinming Li",
+        "Zhibin Tang",
+        "Chaomin Shen",
+        "Feifei Feng"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2502.05855v3"
+      }
     },
     {
       "id": "r037",
@@ -736,7 +1459,22 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "16 Jan 2025",
-      "first_author": "Karl Pertsch"
+      "first_author": "Karl Pertsch",
+      "authors": [
+        "Karl Pertsch",
+        "Kyle Stachowicz",
+        "Brian Ichter",
+        "Danny Driess",
+        "Suraj Nair",
+        "Quan Vuong",
+        "Oier Mees",
+        "Chelsea Finn",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2501.09747v1"
+      }
     },
     {
       "id": "r038",
@@ -751,7 +1489,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "27 Feb 2025",
-      "first_author": "Moo Jin Kim"
+      "first_author": "Moo Jin Kim",
+      "authors": [
+        "Moo Jin Kim",
+        "Chelsea Finn",
+        "Percy Liang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2502.19645v2"
+      }
     },
     {
       "id": "r073",
@@ -766,7 +1513,185 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "2 Oct 2025",
-      "first_author": "Gemini Robotics Team"
+      "first_author": "Gemini Robotics Team",
+      "authors": [
+        "Gemini Robotics Team",
+        "Abbas Abdolmaleki",
+        "Saminda Abeyruwan",
+        "Joshua Ainslie",
+        "Jean-Baptiste Alayrac",
+        "Montserrat Gonzalez Arenas",
+        "Ashwin Balakrishna",
+        "Nathan Batchelor",
+        "Alex Bewley",
+        "Jeff Bingham",
+        "Michael Bloesch",
+        "Konstantinos Bousmalis",
+        "Philemon Brakel",
+        "Anthony Brohan",
+        "Thomas Buschmann",
+        "Arunkumar Byravan",
+        "Serkan Cabi",
+        "Ken Caluwaerts",
+        "Federico Casarini",
+        "Christine Chan",
+        "Oscar Chang",
+        "London Chappellet-Volpini",
+        "Jose Enrique Chen",
+        "Xi Chen",
+        "Hao-Tien Lewis Chiang",
+        "Krzysztof Choromanski",
+        "Adrian Collister",
+        "David B. D'Ambrosio",
+        "Sudeep Dasari",
+        "Todor Davchev",
+        "Meet Kirankumar Dave",
+        "Coline Devin",
+        "Norman Di Palo",
+        "Tianli Ding",
+        "Carl Doersch",
+        "Adil Dostmohamed",
+        "Yilun Du",
+        "Debidatta Dwibedi",
+        "Sathish Thoppay Egambaram",
+        "Michael Elabd",
+        "Tom Erez",
+        "Xiaolin Fang",
+        "Claudio Fantacci",
+        "Cody Fong",
+        "Erik Frey",
+        "Chuyuan Fu",
+        "Ruiqi Gao",
+        "Marissa Giustina",
+        "Keerthana Gopalakrishnan",
+        "Laura Graesser",
+        "Oliver Groth",
+        "Agrim Gupta",
+        "Roland Hafner",
+        "Steven Hansen",
+        "Leonard Hasenclever",
+        "Sam Haves",
+        "Nicolas Heess",
+        "Brandon Hernaez",
+        "Alex Hofer",
+        "Jasmine Hsu",
+        "Lu Huang",
+        "Sandy H. Huang",
+        "Atil Iscen",
+        "Mithun George Jacob",
+        "Deepali Jain",
+        "Sally Jesmonth",
+        "Abhishek Jindal",
+        "Ryan Julian",
+        "Dmitry Kalashnikov",
+        "M. Emre Karagozler",
+        "Stefani Karp",
+        "Matija Kecman",
+        "J. Chase Kew",
+        "Donnie Kim",
+        "Frank Kim",
+        "Junkyung Kim",
+        "Thomas Kipf",
+        "Sean Kirmani",
+        "Ksenia Konyushkova",
+        "Li Yang Ku",
+        "Yuheng Kuang",
+        "Thomas Lampe",
+        "Antoine Laurens",
+        "Tuan Anh Le",
+        "Isabel Leal",
+        "Alex X. Lee",
+        "Tsang-Wei Edward Lee",
+        "Guy Lever",
+        "Jacky Liang",
+        "Li-Heng Lin",
+        "Fangchen Liu",
+        "Shangbang Long",
+        "Caden Lu",
+        "Sharath Maddineni",
+        "Anirudha Majumdar",
+        "Kevis-Kokitsi Maninis",
+        "Andrew Marmon",
+        "Sergio Martinez",
+        "Assaf Hurwitz Michaely",
+        "Niko Milonopoulos",
+        "Joss Moore",
+        "Robert Moreno",
+        "Michael Neunert",
+        "Francesco Nori",
+        "Joy Ortiz",
+        "Kenneth Oslund",
+        "Carolina Parada",
+        "Emilio Parisotto",
+        "Amaris Paryag",
+        "Acorn Pooley",
+        "Thomas Power",
+        "Alessio Quaglino",
+        "Haroon Qureshi",
+        "Rajkumar Vasudeva Raju",
+        "Helen Ran",
+        "Dushyant Rao",
+        "Kanishka Rao",
+        "Isaac Reid",
+        "David Rendleman",
+        "Krista Reymann",
+        "Miguel Rivas",
+        "Francesco Romano",
+        "Yulia Rubanova",
+        "Peter Pastor Sampedro",
+        "Pannag R Sanketi",
+        "Dhruv Shah",
+        "Mohit Sharma",
+        "Kathryn Shea",
+        "Mohit Shridhar",
+        "Charles Shu",
+        "Vikas Sindhwani",
+        "Sumeet Singh",
+        "Radu Soricut",
+        "Rachel Sterneck",
+        "Ian Storz",
+        "Razvan Surdulescu",
+        "Jie Tan",
+        "Jonathan Tompson",
+        "Saran Tunyasuvunakool",
+        "Jake Varley",
+        "Grace Vesom",
+        "Giulia Vezzani",
+        "Maria Bauza Villalonga",
+        "Oriol Vinyals",
+        "René Wagner",
+        "Ayzaan Wahid",
+        "Stefan Welker",
+        "Paul Wohlhart",
+        "Chengda Wu",
+        "Markus Wulfmeier",
+        "Fei Xia",
+        "Ted Xiao",
+        "Annie Xie",
+        "Jinyu Xie",
+        "Peng Xu",
+        "Sichun Xu",
+        "Ying Xu",
+        "Zhuo Xu",
+        "Jimmy Yan",
+        "Sherry Yang",
+        "Skye Yang",
+        "Yuxiang Yang",
+        "Hiu Hong Yu",
+        "Wenhao Yu",
+        "Wentao Yuan",
+        "Yuan Yuan",
+        "Jingwei Zhang",
+        "Tingnan Zhang",
+        "Zhiyuan Zhang",
+        "Allan Zhou",
+        "Guangyao Zhou",
+        "Yuxiang Zhou"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2510.03342v3"
+      }
     },
     {
       "id": "r047",
@@ -781,7 +1706,131 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "25 Mar 2025",
-      "first_author": "Gemini Robotics Team"
+      "first_author": "Gemini Robotics Team",
+      "authors": [
+        "Gemini Robotics Team",
+        "Saminda Abeyruwan",
+        "Joshua Ainslie",
+        "Jean-Baptiste Alayrac",
+        "Montserrat Gonzalez Arenas",
+        "Travis Armstrong",
+        "Ashwin Balakrishna",
+        "Robert Baruch",
+        "Maria Bauza",
+        "Michiel Blokzijl",
+        "Steven Bohez",
+        "Konstantinos Bousmalis",
+        "Anthony Brohan",
+        "Thomas Buschmann",
+        "Arunkumar Byravan",
+        "Serkan Cabi",
+        "Ken Caluwaerts",
+        "Federico Casarini",
+        "Oscar Chang",
+        "Jose Enrique Chen",
+        "Xi Chen",
+        "Hao-Tien Lewis Chiang",
+        "Krzysztof Choromanski",
+        "David D'Ambrosio",
+        "Sudeep Dasari",
+        "Todor Davchev",
+        "Coline Devin",
+        "Norman Di Palo",
+        "Tianli Ding",
+        "Adil Dostmohamed",
+        "Danny Driess",
+        "Yilun Du",
+        "Debidatta Dwibedi",
+        "Michael Elabd",
+        "Claudio Fantacci",
+        "Cody Fong",
+        "Erik Frey",
+        "Chuyuan Fu",
+        "Marissa Giustina",
+        "Keerthana Gopalakrishnan",
+        "Laura Graesser",
+        "Leonard Hasenclever",
+        "Nicolas Heess",
+        "Brandon Hernaez",
+        "Alexander Herzog",
+        "R. Alex Hofer",
+        "Jan Humplik",
+        "Atil Iscen",
+        "Mithun George Jacob",
+        "Deepali Jain",
+        "Ryan Julian",
+        "Dmitry Kalashnikov",
+        "M. Emre Karagozler",
+        "Stefani Karp",
+        "Chase Kew",
+        "Jerad Kirkland",
+        "Sean Kirmani",
+        "Yuheng Kuang",
+        "Thomas Lampe",
+        "Antoine Laurens",
+        "Isabel Leal",
+        "Alex X. Lee",
+        "Tsang-Wei Edward Lee",
+        "Jacky Liang",
+        "Yixin Lin",
+        "Sharath Maddineni",
+        "Anirudha Majumdar",
+        "Assaf Hurwitz Michaely",
+        "Robert Moreno",
+        "Michael Neunert",
+        "Francesco Nori",
+        "Carolina Parada",
+        "Emilio Parisotto",
+        "Peter Pastor",
+        "Acorn Pooley",
+        "Kanishka Rao",
+        "Krista Reymann",
+        "Dorsa Sadigh",
+        "Stefano Saliceti",
+        "Pannag Sanketi",
+        "Pierre Sermanet",
+        "Dhruv Shah",
+        "Mohit Sharma",
+        "Kathryn Shea",
+        "Charles Shu",
+        "Vikas Sindhwani",
+        "Sumeet Singh",
+        "Radu Soricut",
+        "Jost Tobias Springenberg",
+        "Rachel Sterneck",
+        "Razvan Surdulescu",
+        "Jie Tan",
+        "Jonathan Tompson",
+        "Vincent Vanhoucke",
+        "Jake Varley",
+        "Grace Vesom",
+        "Giulia Vezzani",
+        "Oriol Vinyals",
+        "Ayzaan Wahid",
+        "Stefan Welker",
+        "Paul Wohlhart",
+        "Fei Xia",
+        "Ted Xiao",
+        "Annie Xie",
+        "Jinyu Xie",
+        "Peng Xu",
+        "Sichun Xu",
+        "Ying Xu",
+        "Zhuo Xu",
+        "Yuxiang Yang",
+        "Rui Yao",
+        "Sergey Yaroshenko",
+        "Wenhao Yu",
+        "Wentao Yuan",
+        "Jingwei Zhang",
+        "Tingnan Zhang",
+        "Allan Zhou",
+        "Yuxiang Zhou"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2503.20020v1"
+      }
     },
     {
       "id": "r046",
@@ -796,7 +1845,56 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "18 Mar 2025",
-      "first_author": "NVIDIA"
+      "first_author": "NVIDIA",
+      "authors": [
+        "NVIDIA",
+        ":",
+        "Johan Bjorck",
+        "Fernando Castañeda",
+        "Nikita Cherniadev",
+        "Xingye Da",
+        "Runyu Ding",
+        "Linxi \"Jim\" Fan",
+        "Yu Fang",
+        "Dieter Fox",
+        "Fengyuan Hu",
+        "Spencer Huang",
+        "Joel Jang",
+        "Zhenyu Jiang",
+        "Jan Kautz",
+        "Kaushil Kundalia",
+        "Lawrence Lao",
+        "Zhiqi Li",
+        "Zongyu Lin",
+        "Kevin Lin",
+        "Guilin Liu",
+        "Edith Llontop",
+        "Loic Magne",
+        "Ajay Mandlekar",
+        "Avnish Narayan",
+        "Soroush Nasiriany",
+        "Scott Reed",
+        "You Liang Tan",
+        "Guanzhi Wang",
+        "Zu Wang",
+        "Jing Wang",
+        "Qi Wang",
+        "Jiannan Xiang",
+        "Yuqi Xie",
+        "Yinzhen Xu",
+        "Zhenjia Xu",
+        "Seonghyeon Ye",
+        "Zhiding Yu",
+        "Ao Zhang",
+        "Hao Zhang",
+        "Yizhou Zhao",
+        "Ruijie Zheng",
+        "Yuke Zhu"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2503.14734v2"
+      }
     },
     {
       "id": "r079",
@@ -809,6 +1907,21 @@
       "record_check": {
         "date": "2026-11-05",
         "status": "primary-page-checked"
+      },
+      "authors": [
+        "Ren Wang",
+        "Xin Wang",
+        "Tongtong Feng",
+        "Xinyue Gong",
+        "Guangyao Li",
+        "Yu-Wei Zhan",
+        "Qing Li",
+        "Wenwu Zhu"
+      ],
+      "first_author": "Ren Wang",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2025_Improving%20Compositional%20Generalization%20in%20Cross-Embodiment%20Learning%20via%20Mixture%20of%20Disentangled%20Prototypes.pdf"
       }
     },
     {
@@ -824,7 +1937,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "28 Sep 2025",
-      "first_author": "Min Liu"
+      "first_author": "Min Liu",
+      "authors": [
+        "Min Liu",
+        "Deepak Pathak",
+        "Ananye Agarwal"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2509.23745v1"
+      }
     },
     {
       "id": "n019",
@@ -839,7 +1961,26 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "18 Feb 2025",
-      "first_author": "Jianwei Yang"
+      "first_author": "Jianwei Yang",
+      "authors": [
+        "Jianwei Yang",
+        "Reuben Tan",
+        "Qianhui Wu",
+        "Ruijie Zheng",
+        "Baolin Peng",
+        "Yongyuan Liang",
+        "Yu Gu",
+        "Mu Cai",
+        "Seonghyeon Ye",
+        "Joel Jang",
+        "Yuquan Deng",
+        "Lars Liden",
+        "Jianfeng Gao"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2502.13130v1"
+      }
     },
     {
       "id": "r087",
@@ -854,7 +1995,23 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "26 Aug 2025",
-      "first_author": "Hao Shi"
+      "first_author": "Hao Shi",
+      "authors": [
+        "Hao Shi",
+        "Bin Xie",
+        "Yingfei Liu",
+        "Lin Sun",
+        "Fengrong Liu",
+        "Tiancai Wang",
+        "Erjin Zhou",
+        "Haoqiang Fan",
+        "Xiangyu Zhang",
+        "Gao Huang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2508.19236v1"
+      }
     },
     {
       "id": "r015",
@@ -867,6 +2024,18 @@
       "record_check": {
         "date": "2026-11-05",
         "status": "primary-record-checked"
+      },
+      "authors": [
+        "Andres Arias",
+        "Wei Zhang",
+        "Haoyu Qian",
+        "Jr-Shin Li",
+        "Chuangchuang Sun"
+      ],
+      "first_author": "Andres Arias",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2512.04502v1"
       }
     },
     {
@@ -882,7 +2051,27 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "18 Dec 2025",
-      "first_author": "Arhan Jain"
+      "first_author": "Arhan Jain",
+      "authors": [
+        "Arhan Jain",
+        "Mingtong Zhang",
+        "Kanav Arora",
+        "William Chen",
+        "Marcel Torne",
+        "Muhammad Zubair Irshad",
+        "Sergey Zakharov",
+        "Yue Wang",
+        "Sergey Levine",
+        "Chelsea Finn",
+        "Wei-Chiu Ma",
+        "Dhruv Shah",
+        "Abhishek Gupta",
+        "Karl Pertsch"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2512.16881v2"
+      }
     },
     {
       "id": "r115",
@@ -897,7 +2086,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "15 Sep 2025",
-      "first_author": "Jonas Eschmann"
+      "first_author": "Jonas Eschmann",
+      "authors": [
+        "Jonas Eschmann",
+        "Dario Albani",
+        "Giuseppe Loianno"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2509.11481v2"
+      }
     },
     {
       "id": "n035",
@@ -912,7 +2110,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "9 Jun 2025",
-      "first_author": "Kevin Black"
+      "first_author": "Kevin Black",
+      "authors": [
+        "Kevin Black",
+        "Manuel Y. Galliker",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2506.07339v2"
+      }
     },
     {
       "id": "n036",
@@ -927,7 +2134,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "6 Mar 2025",
-      "first_author": "Tobias Jülg"
+      "first_author": "Tobias Jülg",
+      "authors": [
+        "Tobias Jülg",
+        "Wolfram Burgard",
+        "Florian Walter"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2503.05833v2"
+      }
     },
     {
       "id": "r016",
@@ -940,6 +2156,17 @@
       "record_check": {
         "date": "2026-11-05",
         "status": "primary-page-checked"
+      },
+      "authors": [
+        "Charles Xu",
+        "Qiyang Li",
+        "Jianlan Luo",
+        "Sergey Levine"
+      ],
+      "first_author": "Charles Xu",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://roboticsproceedings.org/rss21/p028.html"
       }
     },
     {
@@ -955,7 +2182,45 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "22 Jun 2025",
-      "first_author": "Pranav Atreya"
+      "first_author": "Pranav Atreya",
+      "authors": [
+        "Pranav Atreya",
+        "Karl Pertsch",
+        "Tony Lee",
+        "Moo Jin Kim",
+        "Arhan Jain",
+        "Artur Kuramshin",
+        "Clemens Eppner",
+        "Cyrus Neary",
+        "Edward Hu",
+        "Fabio Ramos",
+        "Jonathan Tremblay",
+        "Kanav Arora",
+        "Kirsty Ellis",
+        "Luca Macesanu",
+        "Marcel Torne Villasevil",
+        "Matthew Leonard",
+        "Meedeum Cho",
+        "Ozgur Aslan",
+        "Shivin Dass",
+        "Jie Wang",
+        "William Reger",
+        "Xingfang Yuan",
+        "Xuning Yang",
+        "Abhishek Gupta",
+        "Dinesh Jayaraman",
+        "Glen Berseth",
+        "Kostas Daniilidis",
+        "Roberto Martin-Martin",
+        "Youngwoon Lee",
+        "Percy Liang",
+        "Chelsea Finn",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2506.18123v2"
+      }
     },
     {
       "id": "n040",
@@ -970,7 +2235,27 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "17 Apr 2025",
-      "first_author": "Yao Mu"
+      "first_author": "Yao Mu",
+      "authors": [
+        "Yao Mu",
+        "Tianxing Chen",
+        "Zanxin Chen",
+        "Shijia Peng",
+        "Zhiqian Lan",
+        "Zeyu Gao",
+        "Zhixuan Liang",
+        "Qiaojun Yu",
+        "Yude Zou",
+        "Mingkun Xu",
+        "Lunkai Lin",
+        "Zhiqiang Xie",
+        "Mingyu Ding",
+        "Ping Luo"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2504.13059v1"
+      }
     },
     {
       "id": "r045",
@@ -985,7 +2270,27 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "2 Jun 2025",
-      "first_author": "Mustafa Shukor"
+      "first_author": "Mustafa Shukor",
+      "authors": [
+        "Mustafa Shukor",
+        "Dana Aubakirova",
+        "Francesco Capuano",
+        "Pepijn Kooijmans",
+        "Steven Palma",
+        "Adil Zouitine",
+        "Michel Aractingi",
+        "Caroline Pascal",
+        "Martino Russi",
+        "Andres Marafioti",
+        "Simon Alibert",
+        "Matthieu Cord",
+        "Thomas Wolf",
+        "Remi Cadene"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2506.01844v1"
+      }
     },
     {
       "id": "r083",
@@ -1000,7 +2305,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "12 Jul 2025",
-      "first_author": "Jialei Huang"
+      "first_author": "Jialei Huang",
+      "authors": [
+        "Jialei Huang",
+        "Shuo Wang",
+        "Fanqi Lin",
+        "Yihang Hu",
+        "Chuan Wen",
+        "Yang Gao"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2507.09160v1"
+      }
     },
     {
       "id": "r024",
@@ -1013,6 +2330,23 @@
       "record_check": {
         "date": "2026-11-05",
         "status": "primary-page-checked"
+      },
+      "authors": [
+        "Bo Ai",
+        "Liu Dai",
+        "Nico Bohlinger",
+        "Dichen Li",
+        "Tongzhou Mu",
+        "Zhanxin Wu",
+        "K. Fay",
+        "Henrik I Christensen",
+        "Jan Peters",
+        "Hao Su"
+      ],
+      "first_author": "Bo Ai",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://proceedings.mlr.press/v305/ai25a.html"
       }
     },
     {
@@ -1027,7 +2361,24 @@
         "date": "2026-11-05",
         "status": "primary-page-checked"
       },
-      "related_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Zheng_Universal_Actions_for_Enhanced_Embodied_Foundation_Models_CVPR_2025_paper.html"
+      "related_url": "https://openaccess.thecvf.com/content/CVPR2025/html/Zheng_Universal_Actions_for_Enhanced_Embodied_Foundation_Models_CVPR_2025_paper.html",
+      "authors": [
+        "Jinliang Zheng",
+        "Jianxiong Li",
+        "Dongxiu Liu",
+        "Yinan Zheng",
+        "Zhihao Wang",
+        "Zhonghong Ou",
+        "Yu Liu",
+        "Jingjing Liu",
+        "Ya-Qin Zhang",
+        "Xianyuan Zhan"
+      ],
+      "first_author": "Jinliang Zheng",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2501.10105v2"
+      }
     },
     {
       "id": "r086",
@@ -1040,6 +2391,21 @@
       "record_check": {
         "date": "2026-11-05",
         "status": "primary-page-checked"
+      },
+      "authors": [
+        "Yichao Shen",
+        "Fangyun Wei",
+        "Zhiying Du",
+        "Yaobo Liang",
+        "Yan Lu",
+        "Jiaolong Yang",
+        "Nanning Zheng",
+        "Baining Guo"
+      ],
+      "first_author": "Yichao Shen",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://papers.nips.cc/paper_files/paper/2025/file/89a3b655a8b68ae1c76b768152c9c19d-Paper-Conference.pdf"
       }
     },
     {
@@ -1055,7 +2421,18 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "23 Jul 2025",
-      "first_author": "Jianxin Bi"
+      "first_author": "Jianxin Bi",
+      "authors": [
+        "Jianxin Bi",
+        "Kevin Yuchen Ma",
+        "Ce Hao",
+        "Mike Zheng Shou",
+        "Harold Soh"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2507.17294v1"
+      }
     },
     {
       "id": "n016",
@@ -1070,7 +2447,28 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "11 Oct 2025",
-      "first_author": "Jinliang Zheng"
+      "first_author": "Jinliang Zheng",
+      "authors": [
+        "Jinliang Zheng",
+        "Jianxiong Li",
+        "Zhihao Wang",
+        "Dongxiu Liu",
+        "Xirui Kang",
+        "Yuchun Feng",
+        "Yinan Zheng",
+        "Jiayin Zou",
+        "Yilun Chen",
+        "Jia Zeng",
+        "Ya-Qin Zhang",
+        "Jiangmiao Pang",
+        "Jingjing Liu",
+        "Tai Wang",
+        "Xianyuan Zhan"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2510.10274v1"
+      }
     },
     {
       "id": "r048",
@@ -1085,7 +2483,69 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "18 Nov 2025",
-      "first_author": "Physical Intelligence"
+      "first_author": "Physical Intelligence",
+      "authors": [
+        "Physical Intelligence",
+        "Ali Amin",
+        "Raichelle Aniceto",
+        "Ashwin Balakrishna",
+        "Kevin Black",
+        "Ken Conley",
+        "Grace Connors",
+        "James Darpinian",
+        "Karan Dhabalia",
+        "Jared DiCarlo",
+        "Danny Driess",
+        "Michael Equi",
+        "Adnan Esmail",
+        "Yunhao Fang",
+        "Chelsea Finn",
+        "Catherine Glossop",
+        "Thomas Godden",
+        "Ivan Goryachev",
+        "Lachy Groom",
+        "Hunter Hancock",
+        "Karol Hausman",
+        "Gashon Hussein",
+        "Brian Ichter",
+        "Szymon Jakubczak",
+        "Rowan Jen",
+        "Tim Jones",
+        "Ben Katz",
+        "Liyiming Ke",
+        "Chandra Kuchi",
+        "Marinda Lamb",
+        "Devin LeBlanc",
+        "Sergey Levine",
+        "Adrian Li-Bell",
+        "Yao Lu",
+        "Vishnu Mano",
+        "Mohith Mothukuri",
+        "Suraj Nair",
+        "Karl Pertsch",
+        "Allen Z. Ren",
+        "Charvi Sharma",
+        "Lucy Xiaoyang Shi",
+        "Laura Smith",
+        "Jost Tobias Springenberg",
+        "Kyle Stachowicz",
+        "Will Stoeckle",
+        "Alex Swerdlow",
+        "James Tanner",
+        "Marcel Torne",
+        "Quan Vuong",
+        "Anna Walling",
+        "Haohuan Wang",
+        "Blake Williams",
+        "Sukwon Yoo",
+        "Lili Yu",
+        "Ury Zhilinsky",
+        "Zhiyuan Zhou"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2511.14759v2"
+      }
     },
     {
       "id": "r044",
@@ -1100,7 +2560,49 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "22 Apr 2025",
-      "first_author": "Physical Intelligence"
+      "first_author": "Physical Intelligence",
+      "authors": [
+        "Physical Intelligence",
+        "Kevin Black",
+        "Noah Brown",
+        "James Darpinian",
+        "Karan Dhabalia",
+        "Danny Driess",
+        "Adnan Esmail",
+        "Michael Equi",
+        "Chelsea Finn",
+        "Niccolo Fusai",
+        "Manuel Y. Galliker",
+        "Dibya Ghosh",
+        "Lachy Groom",
+        "Karol Hausman",
+        "Brian Ichter",
+        "Szymon Jakubczak",
+        "Tim Jones",
+        "Liyiming Ke",
+        "Devin LeBlanc",
+        "Sergey Levine",
+        "Adrian Li-Bell",
+        "Mohith Mothukuri",
+        "Suraj Nair",
+        "Karl Pertsch",
+        "Allen Z. Ren",
+        "Lucy Xiaoyang Shi",
+        "Laura Smith",
+        "Jost Tobias Springenberg",
+        "Kyle Stachowicz",
+        "James Tanner",
+        "Quan Vuong",
+        "Homer Walke",
+        "Anna Walling",
+        "Haohuan Wang",
+        "Lili Yu",
+        "Ury Zhilinsky"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2504.16054v1"
+      }
     },
     {
       "id": "n048",
@@ -1115,7 +2617,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "14 Mar 2024",
-      "first_author": "Haoyu Zhen"
+      "first_author": "Haoyu Zhen",
+      "authors": [
+        "Haoyu Zhen",
+        "Xiaowen Qiu",
+        "Peihao Chen",
+        "Jincheng Yang",
+        "Xin Yan",
+        "Yilun Du",
+        "Yining Hong",
+        "Chuang Gan"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2403.09631v1"
+      }
     },
     {
       "id": "r065",
@@ -1130,7 +2646,20 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "4 Feb 2024",
-      "first_author": "Zhiyuan Xu"
+      "first_author": "Zhiyuan Xu",
+      "authors": [
+        "Zhiyuan Xu",
+        "Kun Wu",
+        "Junjie Wen",
+        "Jinming Li",
+        "Ning Liu",
+        "Zhengping Che",
+        "Jian Tang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2402.02385v1"
+      }
     },
     {
       "id": "n075",
@@ -1145,7 +2674,27 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "20 Aug 2024",
-      "first_author": "Zhiqiang Wang"
+      "first_author": "Zhiqiang Wang",
+      "authors": [
+        "Zhiqiang Wang",
+        "Hao Zheng",
+        "Yunshuang Nie",
+        "Wenjun Xu",
+        "Qingwei Wang",
+        "Hua Ye",
+        "Zhe Li",
+        "Kaidong Zhang",
+        "Xuewen Cheng",
+        "Wanxi Dong",
+        "Chang Cai",
+        "Liang Lin",
+        "Feng Zheng",
+        "Xiaodan Liang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2408.10899v1"
+      }
     },
     {
       "id": "n045",
@@ -1160,7 +2709,33 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "8 Feb 2024",
-      "first_author": "Zane Durante"
+      "first_author": "Zane Durante",
+      "authors": [
+        "Zane Durante",
+        "Bidipta Sarkar",
+        "Ran Gong",
+        "Rohan Taori",
+        "Yusuke Noda",
+        "Paul Tang",
+        "Ehsan Adeli",
+        "Shrinidhi Kowshika Lakshmikanth",
+        "Kevin Schulman",
+        "Arnold Milstein",
+        "Demetri Terzopoulos",
+        "Ade Famoti",
+        "Noboru Kuno",
+        "Ashley Llorens",
+        "Hoi Vo",
+        "Katsu Ikeuchi",
+        "Li Fei-Fei",
+        "Jianfeng Gao",
+        "Naoki Wake",
+        "Qiuyuan Huang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2402.05929v2"
+      }
     },
     {
       "id": "n014",
@@ -1175,7 +2750,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "11 Jun 2024",
-      "first_author": "Siddhant Haldar"
+      "first_author": "Siddhant Haldar",
+      "authors": [
+        "Siddhant Haldar",
+        "Zhuoran Peng",
+        "Lerrel Pinto"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2406.07539v2"
+      }
     },
     {
       "id": "n011",
@@ -1190,7 +2774,18 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "12 Aug 2024",
-      "first_author": "Carmelo Sferrazza"
+      "first_author": "Carmelo Sferrazza",
+      "authors": [
+        "Carmelo Sferrazza",
+        "Dun-Ming Huang",
+        "Fangchen Liu",
+        "Jongmin Lee",
+        "Pieter Abbeel"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2408.06316v1"
+      }
     },
     {
       "id": "r085",
@@ -1204,7 +2799,32 @@
         "date": "2026-11-05",
         "status": "primary-page-checked"
       },
-      "related_url": "https://cogact.github.io/"
+      "related_url": "https://cogact.github.io/",
+      "authors": [
+        "Qixiu Li",
+        "Yaobo Liang",
+        "Zeyu Wang",
+        "Lin Luo",
+        "Xi Chen",
+        "Mozheng Liao",
+        "Fangyun Wei",
+        "Yu Deng",
+        "Sicheng Xu",
+        "Yizhong Zhang",
+        "Xiaofan Wang",
+        "Bei Liu",
+        "Jianlong Fu",
+        "Jianmin Bao",
+        "Dong Chen",
+        "Yuanchun Shi",
+        "Jiaolong Yang",
+        "Baining Guo"
+      ],
+      "first_author": "Qixiu Li",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2411.19650v1"
+      }
     },
     {
       "id": "n054",
@@ -1219,7 +2839,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "4 Nov 2024",
-      "first_author": "Yang Yue"
+      "first_author": "Yang Yue",
+      "authors": [
+        "Yang Yue",
+        "Yulin Wang",
+        "Bingyi Kang",
+        "Yizeng Han",
+        "Shenzhi Wang",
+        "Shiji Song",
+        "Jiashi Feng",
+        "Gao Huang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2411.02359v1"
+      }
     },
     {
       "id": "n056",
@@ -1234,7 +2868,24 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "4 Dec 2024",
-      "first_author": "Junjie Wen"
+      "first_author": "Junjie Wen",
+      "authors": [
+        "Junjie Wen",
+        "Minjie Zhu",
+        "Yichen Zhu",
+        "Zhibin Tang",
+        "Jinming Li",
+        "Zhongyi Zhou",
+        "Chengmeng Li",
+        "Xiaoyu Liu",
+        "Yaxin Peng",
+        "Chaomin Shen",
+        "Feifei Feng"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2412.03293v3"
+      }
     },
     {
       "id": "r022",
@@ -1247,6 +2898,19 @@
       "record_check": {
         "date": "2026-11-05",
         "status": "primary-page-checked"
+      },
+      "authors": [
+        "Zheng Xiong",
+        "Risto Vuorio",
+        "Jacob Beck",
+        "Matthieu Zimmer",
+        "Kun Shao",
+        "Shimon Whiteson"
+      ],
+      "first_author": "Zheng Xiong",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://proceedings.mlr.press/v235/xiong24c.html"
       }
     },
     {
@@ -1262,7 +2926,114 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "19 Mar 2024",
-      "first_author": "Alexander Khazatsky"
+      "first_author": "Alexander Khazatsky",
+      "authors": [
+        "Alexander Khazatsky",
+        "Karl Pertsch",
+        "Suraj Nair",
+        "Ashwin Balakrishna",
+        "Sudeep Dasari",
+        "Siddharth Karamcheti",
+        "Soroush Nasiriany",
+        "Mohan Kumar Srirama",
+        "Lawrence Yunliang Chen",
+        "Kirsty Ellis",
+        "Peter David Fagan",
+        "Joey Hejna",
+        "Masha Itkina",
+        "Marion Lepert",
+        "Yecheng Jason Ma",
+        "Patrick Tree Miller",
+        "Jimmy Wu",
+        "Suneel Belkhale",
+        "Shivin Dass",
+        "Huy Ha",
+        "Arhan Jain",
+        "Abraham Lee",
+        "Youngwoon Lee",
+        "Marius Memmel",
+        "Sungjae Park",
+        "Ilija Radosavovic",
+        "Kaiyuan Wang",
+        "Albert Zhan",
+        "Kevin Black",
+        "Cheng Chi",
+        "Kyle Beltran Hatch",
+        "Shan Lin",
+        "Jingpei Lu",
+        "Jean Mercat",
+        "Abdul Rehman",
+        "Pannag R Sanketi",
+        "Archit Sharma",
+        "Cody Simpson",
+        "Quan Vuong",
+        "Homer Rich Walke",
+        "Blake Wulfe",
+        "Ted Xiao",
+        "Jonathan Heewon Yang",
+        "Arefeh Yavary",
+        "Tony Z. Zhao",
+        "Christopher Agia",
+        "Rohan Baijal",
+        "Mateo Guaman Castro",
+        "Daphne Chen",
+        "Qiuyu Chen",
+        "Trinity Chung",
+        "Jaimyn Drake",
+        "Ethan Paul Foster",
+        "Jensen Gao",
+        "Vitor Guizilini",
+        "David Antonio Herrera",
+        "Minho Heo",
+        "Kyle Hsu",
+        "Jiaheng Hu",
+        "Muhammad Zubair Irshad",
+        "Donovon Jackson",
+        "Charlotte Le",
+        "Yunshuang Li",
+        "Kevin Lin",
+        "Roy Lin",
+        "Zehan Ma",
+        "Abhiram Maddukuri",
+        "Suvir Mirchandani",
+        "Daniel Morton",
+        "Tony Nguyen",
+        "Abigail O'Neill",
+        "Rosario Scalise",
+        "Derick Seale",
+        "Victor Son",
+        "Stephen Tian",
+        "Emi Tran",
+        "Andrew E. Wang",
+        "Yilin Wu",
+        "Annie Xie",
+        "Jingyun Yang",
+        "Patrick Yin",
+        "Yunchu Zhang",
+        "Osbert Bastani",
+        "Glen Berseth",
+        "Jeannette Bohg",
+        "Ken Goldberg",
+        "Abhinav Gupta",
+        "Abhishek Gupta",
+        "Dinesh Jayaraman",
+        "Joseph J Lim",
+        "Jitendra Malik",
+        "Roberto Martín-Martín",
+        "Subramanian Ramamoorthy",
+        "Dorsa Sadigh",
+        "Shuran Song",
+        "Jiajun Wu",
+        "Michael C. Yip",
+        "Yuke Zhu",
+        "Thomas Kollar",
+        "Sergey Levine",
+        "Chelsea Finn"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2403.12945v2"
+      }
     },
     {
       "id": "n039",
@@ -1277,7 +3048,29 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "9 May 2024",
-      "first_author": "Xuanlin Li"
+      "first_author": "Xuanlin Li",
+      "authors": [
+        "Xuanlin Li",
+        "Kyle Hsu",
+        "Jiayuan Gu",
+        "Karl Pertsch",
+        "Oier Mees",
+        "Homer Rich Walke",
+        "Chuyuan Fu",
+        "Ishikaa Lunawat",
+        "Isabel Sieh",
+        "Sean Kirmani",
+        "Sergey Levine",
+        "Jiajun Wu",
+        "Chelsea Finn",
+        "Hao Su",
+        "Quan Vuong",
+        "Ted Xiao"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2405.05941v1"
+      }
     },
     {
       "id": "n066",
@@ -1292,7 +3085,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "25 Sep 2024",
-      "first_author": "Jiaheng Hu"
+      "first_author": "Jiaheng Hu",
+      "authors": [
+        "Jiaheng Hu",
+        "Rose Hendrix",
+        "Ali Farhadi",
+        "Aniruddha Kembhavi",
+        "Roberto Martin-Martin",
+        "Peter Stone",
+        "Kuo-Hao Zeng",
+        "Kiana Ehsani"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2409.16578v2"
+      }
     },
     {
       "id": "r066",
@@ -1307,7 +3114,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "16 Jan 2024",
-      "first_author": "Jianlan Luo"
+      "first_author": "Jianlan Luo",
+      "authors": [
+        "Jianlan Luo",
+        "Charles Xu",
+        "Fangchen Liu",
+        "Liam Tan",
+        "Zipeng Lin",
+        "Jeffrey Wu",
+        "Pieter Abbeel",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2401.08553v3"
+      }
     },
     {
       "id": "n078",
@@ -1322,7 +3143,20 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "4 Oct 2024",
-      "first_author": "Pu Hua"
+      "first_author": "Pu Hua",
+      "authors": [
+        "Pu Hua",
+        "Minghuan Liu",
+        "Annabella Macaluso",
+        "Yunfeng Lin",
+        "Weinan Zhang",
+        "Huazhe Xu",
+        "Lirui Wang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2410.03645v1"
+      }
     },
     {
       "id": "n052",
@@ -1337,7 +3171,25 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "8 Oct 2024",
-      "first_author": "Chi-Lam Cheang"
+      "first_author": "Chi-Lam Cheang",
+      "authors": [
+        "Chi-Lam Cheang",
+        "Guangzeng Chen",
+        "Ya Jing",
+        "Tao Kong",
+        "Hang Li",
+        "Yifeng Li",
+        "Yuxiao Liu",
+        "Hongtao Wu",
+        "Jiafeng Xu",
+        "Yichu Yang",
+        "Hanbo Zhang",
+        "Minzhao Zhu"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2410.06158v1"
+      }
     },
     {
       "id": "n076",
@@ -1352,7 +3204,35 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "15 Jul 2024",
-      "first_author": "Hanqing Wang"
+      "first_author": "Hanqing Wang",
+      "authors": [
+        "Hanqing Wang",
+        "Jiahe Chen",
+        "Wensi Huang",
+        "Qingwei Ben",
+        "Tai Wang",
+        "Boyu Mi",
+        "Tao Huang",
+        "Siheng Zhao",
+        "Yilun Chen",
+        "Sizhe Yang",
+        "Peizhou Cao",
+        "Wenye Yu",
+        "Zichao Ye",
+        "Jialun Li",
+        "Junfeng Long",
+        "Zirui Wang",
+        "Huiling Wang",
+        "Ying Zhao",
+        "Zhongying Tu",
+        "Yu Qiao",
+        "Dahua Lin",
+        "Jiangmiao Pang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2407.10943v1"
+      }
     },
     {
       "id": "r021",
@@ -1367,7 +3247,20 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "2 Aug 2024",
-      "first_author": "YiFan Hao"
+      "first_author": "YiFan Hao",
+      "authors": [
+        "YiFan Hao",
+        "Yang Yang",
+        "Junru Song",
+        "Wei Peng",
+        "Weien Zhou",
+        "Tingsong Jiang",
+        "Wen Yao"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2408.01230v1"
+      }
     },
     {
       "id": "n053",
@@ -1382,7 +3275,29 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "15 Oct 2024",
-      "first_author": "Seonghyeon Ye"
+      "first_author": "Seonghyeon Ye",
+      "authors": [
+        "Seonghyeon Ye",
+        "Joel Jang",
+        "Byeongguk Jeon",
+        "Sejune Joo",
+        "Jianwei Yang",
+        "Baolin Peng",
+        "Ajay Mandlekar",
+        "Reuben Tan",
+        "Yu-Wei Chao",
+        "Bill Yuchen Lin",
+        "Lars Liden",
+        "Kimin Lee",
+        "Jianfeng Gao",
+        "Luke Zettlemoyer",
+        "Dieter Fox",
+        "Minjoon Seo"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2410.11758v2"
+      }
     },
     {
       "id": "n051",
@@ -1397,7 +3312,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "17 Jun 2024",
-      "first_author": "Dantong Niu"
+      "first_author": "Dantong Niu",
+      "authors": [
+        "Dantong Niu",
+        "Yuvan Sharma",
+        "Giscard Biamby",
+        "Jerome Quenum",
+        "Yutong Bai",
+        "Baifeng Shi",
+        "Trevor Darrell",
+        "Roei Herzig"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2406.11815v1"
+      }
     },
     {
       "id": "n077",
@@ -1412,7 +3341,36 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "1 Oct 2024",
-      "first_author": "Stone Tao"
+      "first_author": "Stone Tao",
+      "authors": [
+        "Stone Tao",
+        "Fanbo Xiang",
+        "Arth Shukla",
+        "Yuzhe Qin",
+        "Xander Hinrichsen",
+        "Xiaodi Yuan",
+        "Chen Bao",
+        "Xinsong Lin",
+        "Yulin Liu",
+        "Tse-kai Chan",
+        "Yuan Gao",
+        "Xuanlin Li",
+        "Tongzhou Mu",
+        "Nan Xiao",
+        "Arnav Gurha",
+        "Viswesh Nagaswamy Rajesh",
+        "Yong Woo Choi",
+        "Yen-Ru Chen",
+        "Zhiao Huang",
+        "Roberto Calandra",
+        "Rui Chen",
+        "Shan Luo",
+        "Hao Su"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2410.00425v2"
+      }
     },
     {
       "id": "n058",
@@ -1427,7 +3385,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "5 Dec 2024",
-      "first_author": "Yi Chen"
+      "first_author": "Yi Chen",
+      "authors": [
+        "Yi Chen",
+        "Yuying Ge",
+        "Weiliang Tang",
+        "Yizhuo Li",
+        "Yixiao Ge",
+        "Mingyu Ding",
+        "Ying Shan",
+        "Xihui Liu"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2412.04445v4"
+      }
     },
     {
       "id": "n004",
@@ -1442,7 +3414,18 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "4 Dec 2024",
-      "first_author": "Amir Bar"
+      "first_author": "Amir Bar",
+      "authors": [
+        "Amir Bar",
+        "Gaoyue Zhou",
+        "Danny Tran",
+        "Trevor Darrell",
+        "Yann LeCun"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2412.03572v2"
+      }
     },
     {
       "id": "n060",
@@ -1457,7 +3440,23 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "5 Dec 2024",
-      "first_author": "An-Chieh Cheng"
+      "first_author": "An-Chieh Cheng",
+      "authors": [
+        "An-Chieh Cheng",
+        "Yandong Ji",
+        "Zhaojing Yang",
+        "Zaitian Gongye",
+        "Xueyan Zou",
+        "Jan Kautz",
+        "Erdem Bıyık",
+        "Hongxu Yin",
+        "Sifei Liu",
+        "Xiaolong Wang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2412.04453v2"
+      }
     },
     {
       "id": "n067",
@@ -1472,7 +3471,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "9 Sep 2024",
-      "first_author": "Murtaza Dalal"
+      "first_author": "Murtaza Dalal",
+      "authors": [
+        "Murtaza Dalal",
+        "Jiahui Yang",
+        "Russell Mendonca",
+        "Youssef Khaky",
+        "Ruslan Salakhutdinov",
+        "Deepak Pathak"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2409.05864v1"
+      }
     },
     {
       "id": "r013",
@@ -1487,7 +3498,32 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "20 May 2024",
-      "first_author": "Octo Model Team"
+      "first_author": "Octo Model Team",
+      "authors": [
+        "Octo Model Team",
+        "Dibya Ghosh",
+        "Homer Walke",
+        "Karl Pertsch",
+        "Kevin Black",
+        "Oier Mees",
+        "Sudeep Dasari",
+        "Joey Hejna",
+        "Tobias Kreiman",
+        "Charles Xu",
+        "Jianlan Luo",
+        "You Liang Tan",
+        "Lawrence Yunliang Chen",
+        "Pannag Sanketi",
+        "Quan Vuong",
+        "Ted Xiao",
+        "Dorsa Sadigh",
+        "Chelsea Finn",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2405.12213v2"
+      }
     },
     {
       "id": "n025",
@@ -1502,7 +3538,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "22 Jan 2024",
-      "first_author": "Peiqi Liu"
+      "first_author": "Peiqi Liu",
+      "authors": [
+        "Peiqi Liu",
+        "Yaswanth Orru",
+        "Jay Vakil",
+        "Chris Paxton",
+        "Nur Muhammad Mahi Shafiullah",
+        "Lerrel Pinto"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2401.12202v2"
+      }
     },
     {
       "id": "r009",
@@ -1517,7 +3565,20 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "10 Sep 2024",
-      "first_author": "Nico Bohlinger"
+      "first_author": "Nico Bohlinger",
+      "authors": [
+        "Nico Bohlinger",
+        "Grzegorz Czechmanowski",
+        "Maciej Krupka",
+        "Piotr Kicki",
+        "Krzysztof Walas",
+        "Jan Peters",
+        "Davide Tateo"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2409.06366v4"
+      }
     },
     {
       "id": "r043",
@@ -1532,7 +3593,31 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "13 Jun 2024",
-      "first_author": "Moo Jin Kim"
+      "first_author": "Moo Jin Kim",
+      "authors": [
+        "Moo Jin Kim",
+        "Karl Pertsch",
+        "Siddharth Karamcheti",
+        "Ted Xiao",
+        "Ashwin Balakrishna",
+        "Suraj Nair",
+        "Rafael Rafailov",
+        "Ethan Foster",
+        "Grace Lam",
+        "Pannag Sanketi",
+        "Quan Vuong",
+        "Thomas Kollar",
+        "Benjamin Burchfiel",
+        "Russ Tedrake",
+        "Dorsa Sadigh",
+        "Sergey Levine",
+        "Percy Liang",
+        "Chelsea Finn"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2406.09246v3"
+      }
     },
     {
       "id": "n063",
@@ -1547,7 +3632,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "29 Feb 2024",
-      "first_author": "Jonathan Yang"
+      "first_author": "Jonathan Yang",
+      "authors": [
+        "Jonathan Yang",
+        "Catherine Glossop",
+        "Arjun Bhorkar",
+        "Dhruv Shah",
+        "Quan Vuong",
+        "Chelsea Finn",
+        "Dorsa Sadigh",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2402.19432v1"
+      }
     },
     {
       "id": "r036",
@@ -1562,7 +3661,22 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "10 Oct 2024",
-      "first_author": "Songming Liu"
+      "first_author": "Songming Liu",
+      "authors": [
+        "Songming Liu",
+        "Lingxuan Wu",
+        "Bangguo Li",
+        "Hengkai Tan",
+        "Huayu Chen",
+        "Zhengyi Wang",
+        "Ke Xu",
+        "Hang Su",
+        "Jun Zhu"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2410.07864v2"
+      }
     },
     {
       "id": "r060",
@@ -1577,7 +3691,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "4 Jun 2024",
-      "first_author": "Soroush Nasiriany"
+      "first_author": "Soroush Nasiriany",
+      "authors": [
+        "Soroush Nasiriany",
+        "Abhiram Maddukuri",
+        "Lance Zhang",
+        "Adeet Parikh",
+        "Aaron Lo",
+        "Abhishek Joshi",
+        "Ajay Mandlekar",
+        "Yuke Zhu"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2406.02523v1"
+      }
     },
     {
       "id": "n018",
@@ -1592,7 +3720,23 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "6 Jun 2024",
-      "first_author": "Jiaming Liu"
+      "first_author": "Jiaming Liu",
+      "authors": [
+        "Jiaming Liu",
+        "Mengzhen Liu",
+        "Zhenyu Wang",
+        "Pengju An",
+        "Xiaoqi Li",
+        "Kaichen Zhou",
+        "Senqiao Yang",
+        "Renrui Zhang",
+        "Yandong Guo",
+        "Shanghang Zhang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2406.04339v2"
+      }
     },
     {
       "id": "n079",
@@ -1607,7 +3751,50 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "18 Dec 2024",
-      "first_author": "Kun Wu"
+      "first_author": "Kun Wu",
+      "authors": [
+        "Kun Wu",
+        "Chengkai Hou",
+        "Jiaming Liu",
+        "Zhengping Che",
+        "Xiaozhu Ju",
+        "Zhuqin Yang",
+        "Meng Li",
+        "Yinuo Zhao",
+        "Zhiyuan Xu",
+        "Guang Yang",
+        "Shichao Fan",
+        "Xinhua Wang",
+        "Fei Liao",
+        "Zhen Zhao",
+        "Guangyu Li",
+        "Zhao Jin",
+        "Lecheng Wang",
+        "Jilei Mao",
+        "Ning Liu",
+        "Pei Ren",
+        "Qiang Zhang",
+        "Yaoxu Lyu",
+        "Mengzhen Liu",
+        "Jingyang He",
+        "Yulin Luo",
+        "Zeyu Gao",
+        "Chenxuan Li",
+        "Chenyang Gu",
+        "Yankai Fu",
+        "Di Wu",
+        "Xingyu Wang",
+        "Sixiang Chen",
+        "Zhenyu Wang",
+        "Pengju An",
+        "Siyuan Qian",
+        "Shanghang Zhang",
+        "Jian Tang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2412.13877v3"
+      }
     },
     {
       "id": "n064",
@@ -1622,7 +3809,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "15 Jun 2024",
-      "first_author": "Wentao Yuan"
+      "first_author": "Wentao Yuan",
+      "authors": [
+        "Wentao Yuan",
+        "Jiafei Duan",
+        "Valts Blukis",
+        "Wilbert Pumacay",
+        "Ranjay Krishna",
+        "Adithyavairavan Murali",
+        "Arsalan Mousavian",
+        "Dieter Fox"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2406.10721v1"
+      }
     },
     {
       "id": "n065",
@@ -1638,7 +3839,23 @@
       },
       "first_submitted": "9 Sep 2024",
       "first_author": "Haritheja Etukuru",
-      "caution": "Uses multiple utility models with verification and retries, rather than one policy for every task."
+      "caution": "Uses multiple utility models with verification and retries, rather than one policy for every task.",
+      "authors": [
+        "Haritheja Etukuru",
+        "Norihito Naka",
+        "Zijin Hu",
+        "Seungjae Lee",
+        "Julian Mehu",
+        "Aaron Edsinger",
+        "Chris Paxton",
+        "Soumith Chintala",
+        "Lerrel Pinto",
+        "Nur Muhammad Mahi Shafiullah"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2409.05865v1"
+      }
     },
     {
       "id": "n050",
@@ -1653,7 +3870,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "11 Jul 2024",
-      "first_author": "Michał Zawalski"
+      "first_author": "Michał Zawalski",
+      "authors": [
+        "Michał Zawalski",
+        "William Chen",
+        "Karl Pertsch",
+        "Oier Mees",
+        "Chelsea Finn",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2407.08693v3"
+      }
     },
     {
       "id": "n049",
@@ -1668,7 +3897,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "27 Jun 2024",
-      "first_author": "Fanfan Liu"
+      "first_author": "Fanfan Liu",
+      "authors": [
+        "Fanfan Liu",
+        "Feng Yan",
+        "Liming Zheng",
+        "Chengjian Feng",
+        "Yiyang Huang",
+        "Lin Ma"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2406.18977v3"
+      }
     },
     {
       "id": "n055",
@@ -1683,7 +3924,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "5 Nov 2024",
-      "first_author": "Soroush Nasiriany"
+      "first_author": "Soroush Nasiriany",
+      "authors": [
+        "Soroush Nasiriany",
+        "Sean Kirmani",
+        "Tianli Ding",
+        "Laura Smith",
+        "Yuke Zhu",
+        "Danny Driess",
+        "Dorsa Sadigh",
+        "Ted Xiao"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2411.02704v1"
+      }
     },
     {
       "id": "n020",
@@ -1698,7 +3953,22 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "4 Mar 2024",
-      "first_author": "Suneel Belkhale"
+      "first_author": "Suneel Belkhale",
+      "authors": [
+        "Suneel Belkhale",
+        "Tianli Ding",
+        "Ted Xiao",
+        "Pierre Sermanet",
+        "Quon Vuong",
+        "Jonathan Tompson",
+        "Yevgen Chebotar",
+        "Debidatta Dwibedi",
+        "Dorsa Sadigh"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2403.01823v2"
+      }
     },
     {
       "id": "r023",
@@ -1713,7 +3983,19 @@
         "status": "primary-page-checked"
       },
       "publication_note": "CoRL 2024; PMLR proceedings published in 2025",
-      "related_url": "https://proceedings.mlr.press/v270/doshi25a.html"
+      "related_url": "https://proceedings.mlr.press/v270/doshi25a.html",
+      "authors": [
+        "Ria Doshi",
+        "Homer Walke",
+        "Oier Mees",
+        "Sudeep Dasari",
+        "Sergey Levine"
+      ],
+      "first_author": "Ria Doshi",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2408.11812v1"
+      }
     },
     {
       "id": "n013",
@@ -1728,7 +4010,17 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "30 Sep 2024",
-      "first_author": "Lirui Wang"
+      "first_author": "Lirui Wang",
+      "authors": [
+        "Lirui Wang",
+        "Xinlei Chen",
+        "Jialiang Zhao",
+        "Kaiming He"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2409.20537v1"
+      }
     },
     {
       "id": "n072",
@@ -1744,7 +4036,27 @@
       },
       "first_submitted": "6 Feb 2024",
       "first_author": "Tarun Gupta",
-      "caution": "Viewpoint paper; not an evaluated robotic controller."
+      "caution": "Viewpoint paper; not an evaluated robotic controller.",
+      "authors": [
+        "Tarun Gupta",
+        "Wenbo Gong",
+        "Chao Ma",
+        "Nick Pawlowski",
+        "Agrin Hilmkil",
+        "Meyer Scetbon",
+        "Marc Rigter",
+        "Ade Famoti",
+        "Ashley Juan Llorens",
+        "Jianfeng Gao",
+        "Stefan Bauer",
+        "Danica Kragic",
+        "Bernhard Schölkopf",
+        "Cheng Zhang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2402.06665v2"
+      }
     },
     {
       "id": "n069",
@@ -1759,7 +4071,27 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "18 Dec 2024",
-      "first_author": "Ainaz Eftekhar"
+      "first_author": "Ainaz Eftekhar",
+      "authors": [
+        "Ainaz Eftekhar",
+        "Rose Hendrix",
+        "Luca Weihs",
+        "Jiafei Duan",
+        "Ege Caglar",
+        "Jordi Salvador",
+        "Alvaro Herrasti",
+        "Winson Han",
+        "Eli VanderBil",
+        "Aniruddha Kembhavi",
+        "Ali Farhadi",
+        "Ranjay Krishna",
+        "Kiana Ehsani",
+        "Kuo-Hao Zeng"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2412.14401v2"
+      }
     },
     {
       "id": "n017",
@@ -1774,7 +4106,25 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "19 Sep 2024",
-      "first_author": "Junjie Wen"
+      "first_author": "Junjie Wen",
+      "authors": [
+        "Junjie Wen",
+        "Yichen Zhu",
+        "Jinming Li",
+        "Minjie Zhu",
+        "Kun Wu",
+        "Zhiyuan Xu",
+        "Ning Liu",
+        "Ran Cheng",
+        "Chaomin Shen",
+        "Yaxin Peng",
+        "Feifei Feng",
+        "Jian Tang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2409.12514v5"
+      }
     },
     {
       "id": "n059",
@@ -1789,7 +4139,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "13 Dec 2024",
-      "first_author": "Ruijie Zheng"
+      "first_author": "Ruijie Zheng",
+      "authors": [
+        "Ruijie Zheng",
+        "Yongyuan Liang",
+        "Shuaiyi Huang",
+        "Jianfeng Gao",
+        "Hal Daumé",
+        "Andrey Kolobov",
+        "Furong Huang",
+        "Jianwei Yang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2412.10345v3"
+      }
     },
     {
       "id": "n027",
@@ -1804,7 +4168,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "15 Feb 2024",
-      "first_author": "Cheng Chi"
+      "first_author": "Cheng Chi",
+      "authors": [
+        "Cheng Chi",
+        "Zhenjia Xu",
+        "Chuer Pan",
+        "Eric Cousineau",
+        "Benjamin Burchfiel",
+        "Siyuan Feng",
+        "Russ Tedrake",
+        "Shuran Song"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2402.10329v3"
+      }
     },
     {
       "id": "r062",
@@ -1819,7 +4197,22 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "19 Dec 2024",
-      "first_author": "Yucheng Hu"
+      "first_author": "Yucheng Hu",
+      "authors": [
+        "Yucheng Hu",
+        "Yanjiang Guo",
+        "Pengchao Wang",
+        "Xiaoyu Chen",
+        "Yen-Jen Wang",
+        "Jianke Zhang",
+        "Koushil Sreenath",
+        "Chaochao Lu",
+        "Jianyu Chen"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2412.14803v2"
+      }
     },
     {
       "id": "n080",
@@ -1834,7 +4227,24 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "24 Dec 2024",
-      "first_author": "Shiduo Zhang"
+      "first_author": "Shiduo Zhang",
+      "authors": [
+        "Shiduo Zhang",
+        "Zhe Xu",
+        "Peiju Liu",
+        "Xiaopeng Yu",
+        "Yuan Li",
+        "Qinghui Gao",
+        "Zhaoye Fei",
+        "Zhangyue Yin",
+        "Zuxuan Wu",
+        "Yu-Gang Jiang",
+        "Xipeng Qiu"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2412.18194v1"
+      }
     },
     {
       "id": "n073",
@@ -1849,7 +4259,24 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "8 Nov 2024",
-      "first_author": "Zhilong Zhang"
+      "first_author": "Zhilong Zhang",
+      "authors": [
+        "Zhilong Zhang",
+        "Ruifeng Chen",
+        "Junyin Ye",
+        "Yihao Sun",
+        "Pengyuan Wang",
+        "Jingcheng Pang",
+        "Kaiyuan Li",
+        "Tianshuo Liu",
+        "Haoxin Lin",
+        "Yang Yu",
+        "Zhi-Hua Zhou"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2411.05619v1"
+      }
     },
     {
       "id": "n057",
@@ -1864,7 +4291,26 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "18 Dec 2024",
-      "first_author": "Xinghang Li"
+      "first_author": "Xinghang Li",
+      "authors": [
+        "Xinghang Li",
+        "Peiyan Li",
+        "Long Qian",
+        "Minghuan Liu",
+        "Dong Wang",
+        "Jirong Liu",
+        "Bingyi Kang",
+        "Xiao Ma",
+        "Xinlong Wang",
+        "Di Guo",
+        "Tao Kong",
+        "Hanbo Zhang",
+        "Huaping Liu"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2412.14058v4"
+      }
     },
     {
       "id": "r014",
@@ -1878,7 +4324,38 @@
         "date": "2026-11-05",
         "status": "primary-page-checked"
       },
-      "related_url": "https://www.pi.website/blog/pi0"
+      "related_url": "https://www.pi.website/blog/pi0",
+      "authors": [
+        "Kevin Black",
+        "Noah Brown",
+        "Danny Driess",
+        "Adnan Esmail",
+        "Michael Equi",
+        "Chelsea Finn",
+        "Niccolo Fusai",
+        "Lachy Groom",
+        "Karol Hausman",
+        "Brian Ichter",
+        "Szymon Jakubczak",
+        "Tim Jones",
+        "Liyiming Ke",
+        "Sergey Levine",
+        "Adrian Li-Bell",
+        "Mohith Mothukuri",
+        "Suraj Nair",
+        "Karl Pertsch",
+        "Lucy Xiaoyang Shi",
+        "James Tanner",
+        "Quan Vuong",
+        "Anna Walling",
+        "Haohuan Wang",
+        "Ury Zhilinsky"
+      ],
+      "first_author": "Kevin Black",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2410.24164v4"
+      }
     },
     {
       "id": "n046",
@@ -1893,7 +4370,23 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "18 Nov 2023",
-      "first_author": "Jiangyong Huang"
+      "first_author": "Jiangyong Huang",
+      "authors": [
+        "Jiangyong Huang",
+        "Silong Yong",
+        "Xiaojian Ma",
+        "Xiongkun Linghu",
+        "Puhao Li",
+        "Yan Wang",
+        "Qing Li",
+        "Song-Chun Zhu",
+        "Baoxiong Jia",
+        "Siyuan Huang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2311.12871v3"
+      }
     },
     {
       "id": "r077",
@@ -1908,7 +4401,27 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "24 Aug 2023",
-      "first_author": "Homer Walke"
+      "first_author": "Homer Walke",
+      "authors": [
+        "Homer Walke",
+        "Kevin Black",
+        "Abraham Lee",
+        "Moo Jin Kim",
+        "Max Du",
+        "Chongyi Zheng",
+        "Tony Zhao",
+        "Philippe Hansen-Estruch",
+        "Quan Vuong",
+        "Andre He",
+        "Vivek Myers",
+        "Kuan Fang",
+        "Chelsea Finn",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2308.12952v3"
+      }
     },
     {
       "id": "n074",
@@ -1923,7 +4436,22 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "2 Oct 2023",
-      "first_author": "Lirui Wang"
+      "first_author": "Lirui Wang",
+      "authors": [
+        "Lirui Wang",
+        "Yiyang Ling",
+        "Zhecheng Yuan",
+        "Mohit Shridhar",
+        "Chen Bao",
+        "Yuzhe Qin",
+        "Bailin Wang",
+        "Huazhe Xu",
+        "Xiaolong Wang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2310.01361v2"
+      }
     },
     {
       "id": "r063",
@@ -1938,7 +4466,23 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "16 Jul 2023",
-      "first_author": "Yao Wei"
+      "first_author": "Yao Wei",
+      "authors": [
+        "Yao Wei",
+        "Yanchao Sun",
+        "Ruijie Zheng",
+        "Sai Vemprala",
+        "Rogerio Bonatti",
+        "Shuhang Chen",
+        "Ratnesh Madaan",
+        "Zhongjie Ba",
+        "Ashish Kapoor",
+        "Shuang Ma"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2307.07909v3"
+      }
     },
     {
       "id": "r051",
@@ -1953,7 +4497,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "31 Jan 2023",
-      "first_author": "Yilun Du"
+      "first_author": "Yilun Du",
+      "authors": [
+        "Yilun Du",
+        "Mengjiao Yang",
+        "Bo Dai",
+        "Hanjun Dai",
+        "Ofir Nachum",
+        "Joshua B. Tenenbaum",
+        "Dale Schuurmans",
+        "Pieter Abbeel"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2302.00111v3"
+      }
     },
     {
       "id": "r057",
@@ -1968,7 +4526,20 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "5 Jun 2023",
-      "first_author": "Bo Liu"
+      "first_author": "Bo Liu",
+      "authors": [
+        "Bo Liu",
+        "Yifeng Zhu",
+        "Chongkai Gao",
+        "Yihao Feng",
+        "Qiang Liu",
+        "Yuke Zhu",
+        "Peter Stone"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2306.03310v2"
+      }
     },
     {
       "id": "r059",
@@ -1983,7 +4554,28 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "9 Feb 2023",
-      "first_author": "Jiayuan Gu"
+      "first_author": "Jiayuan Gu",
+      "authors": [
+        "Jiayuan Gu",
+        "Fanbo Xiang",
+        "Xuanlin Li",
+        "Zhan Ling",
+        "Xiqiang Liu",
+        "Tongzhou Mu",
+        "Yihe Tang",
+        "Stone Tao",
+        "Xinyue Wei",
+        "Yunchao Yao",
+        "Xiaodi Yuan",
+        "Pengwei Xie",
+        "Zhiao Huang",
+        "Rui Chen",
+        "Hao Su"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2302.04659v1"
+      }
     },
     {
       "id": "n003",
@@ -1998,7 +4590,17 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "11 Oct 2023",
-      "first_author": "Ajay Sridhar"
+      "first_author": "Ajay Sridhar",
+      "authors": [
+        "Ajay Sridhar",
+        "Dhruv Shah",
+        "Catherine Glossop",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2310.07896v1"
+      }
     },
     {
       "id": "n026",
@@ -2013,7 +4615,20 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "27 Nov 2023",
-      "first_author": "Nur Muhammad Mahi Shafiullah"
+      "first_author": "Nur Muhammad Mahi Shafiullah",
+      "authors": [
+        "Nur Muhammad Mahi Shafiullah",
+        "Anant Rai",
+        "Haritheja Etukuru",
+        "Yiqian Liu",
+        "Ishan Misra",
+        "Soumith Chintala",
+        "Lerrel Pinto"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2311.16098v1"
+      }
     },
     {
       "id": "r002",
@@ -2027,7 +4642,308 @@
         "date": "2026-11-05",
         "status": "primary-page-checked"
       },
-      "related_url": "https://robotics-transformer-x.github.io/"
+      "related_url": "https://robotics-transformer-x.github.io/",
+      "authors": [
+        "Open X-Embodiment Collaboration",
+        "Abby O'Neill",
+        "Abdul Rehman",
+        "Abhinav Gupta",
+        "Abhiram Maddukuri",
+        "Abhishek Gupta",
+        "Abhishek Padalkar",
+        "Abraham Lee",
+        "Acorn Pooley",
+        "Agrim Gupta",
+        "Ajay Mandlekar",
+        "Ajinkya Jain",
+        "Albert Tung",
+        "Alex Bewley",
+        "Alex Herzog",
+        "Alex Irpan",
+        "Alexander Khazatsky",
+        "Anant Rai",
+        "Anchit Gupta",
+        "Andrew Wang",
+        "Andrey Kolobov",
+        "Anikait Singh",
+        "Animesh Garg",
+        "Aniruddha Kembhavi",
+        "Annie Xie",
+        "Anthony Brohan",
+        "Antonin Raffin",
+        "Archit Sharma",
+        "Arefeh Yavary",
+        "Arhan Jain",
+        "Ashwin Balakrishna",
+        "Ayzaan Wahid",
+        "Ben Burgess-Limerick",
+        "Beomjoon Kim",
+        "Bernhard Schölkopf",
+        "Blake Wulfe",
+        "Brian Ichter",
+        "Cewu Lu",
+        "Charles Xu",
+        "Charlotte Le",
+        "Chelsea Finn",
+        "Chen Wang",
+        "Chenfeng Xu",
+        "Cheng Chi",
+        "Chenguang Huang",
+        "Christine Chan",
+        "Christopher Agia",
+        "Chuer Pan",
+        "Chuyuan Fu",
+        "Coline Devin",
+        "Danfei Xu",
+        "Daniel Morton",
+        "Danny Driess",
+        "Daphne Chen",
+        "Deepak Pathak",
+        "Dhruv Shah",
+        "Dieter Büchler",
+        "Dinesh Jayaraman",
+        "Dmitry Kalashnikov",
+        "Dorsa Sadigh",
+        "Edward Johns",
+        "Ethan Foster",
+        "Fangchen Liu",
+        "Federico Ceola",
+        "Fei Xia",
+        "Feiyu Zhao",
+        "Felipe Vieira Frujeri",
+        "Freek Stulp",
+        "Gaoyue Zhou",
+        "Gaurav S. Sukhatme",
+        "Gautam Salhotra",
+        "Ge Yan",
+        "Gilbert Feng",
+        "Giulio Schiavi",
+        "Glen Berseth",
+        "Gregory Kahn",
+        "Guangwen Yang",
+        "Guanzhi Wang",
+        "Hao Su",
+        "Hao-Shu Fang",
+        "Haochen Shi",
+        "Henghui Bao",
+        "Heni Ben Amor",
+        "Henrik I Christensen",
+        "Hiroki Furuta",
+        "Homanga Bharadhwaj",
+        "Homer Walke",
+        "Hongjie Fang",
+        "Huy Ha",
+        "Igor Mordatch",
+        "Ilija Radosavovic",
+        "Isabel Leal",
+        "Jacky Liang",
+        "Jad Abou-Chakra",
+        "Jaehyung Kim",
+        "Jaimyn Drake",
+        "Jan Peters",
+        "Jan Schneider",
+        "Jasmine Hsu",
+        "Jay Vakil",
+        "Jeannette Bohg",
+        "Jeffrey Bingham",
+        "Jeffrey Wu",
+        "Jensen Gao",
+        "Jiaheng Hu",
+        "Jiajun Wu",
+        "Jialin Wu",
+        "Jiankai Sun",
+        "Jianlan Luo",
+        "Jiayuan Gu",
+        "Jie Tan",
+        "Jihoon Oh",
+        "Jimmy Wu",
+        "Jingpei Lu",
+        "Jingyun Yang",
+        "Jitendra Malik",
+        "João Silvério",
+        "Joey Hejna",
+        "Jonathan Booher",
+        "Jonathan Tompson",
+        "Jonathan Yang",
+        "Jordi Salvador",
+        "Joseph J. Lim",
+        "Junhyek Han",
+        "Kaiyuan Wang",
+        "Kanishka Rao",
+        "Karl Pertsch",
+        "Karol Hausman",
+        "Keegan Go",
+        "Keerthana Gopalakrishnan",
+        "Ken Goldberg",
+        "Kendra Byrne",
+        "Kenneth Oslund",
+        "Kento Kawaharazuka",
+        "Kevin Black",
+        "Kevin Lin",
+        "Kevin Zhang",
+        "Kiana Ehsani",
+        "Kiran Lekkala",
+        "Kirsty Ellis",
+        "Krishan Rana",
+        "Krishnan Srinivasan",
+        "Kuan Fang",
+        "Kunal Pratap Singh",
+        "Kuo-Hao Zeng",
+        "Kyle Hatch",
+        "Kyle Hsu",
+        "Laurent Itti",
+        "Lawrence Yunliang Chen",
+        "Lerrel Pinto",
+        "Li Fei-Fei",
+        "Liam Tan",
+        "Linxi \"Jim\" Fan",
+        "Lionel Ott",
+        "Lisa Lee",
+        "Luca Weihs",
+        "Magnum Chen",
+        "Marion Lepert",
+        "Marius Memmel",
+        "Masayoshi Tomizuka",
+        "Masha Itkina",
+        "Mateo Guaman Castro",
+        "Max Spero",
+        "Maximilian Du",
+        "Michael Ahn",
+        "Michael C. Yip",
+        "Mingtong Zhang",
+        "Mingyu Ding",
+        "Minho Heo",
+        "Mohan Kumar Srirama",
+        "Mohit Sharma",
+        "Moo Jin Kim",
+        "Muhammad Zubair Irshad",
+        "Naoaki Kanazawa",
+        "Nicklas Hansen",
+        "Nicolas Heess",
+        "Nikhil J Joshi",
+        "Niko Suenderhauf",
+        "Ning Liu",
+        "Norman Di Palo",
+        "Nur Muhammad Mahi Shafiullah",
+        "Oier Mees",
+        "Oliver Kroemer",
+        "Osbert Bastani",
+        "Pannag R Sanketi",
+        "Patrick \"Tree\" Miller",
+        "Patrick Yin",
+        "Paul Wohlhart",
+        "Peng Xu",
+        "Peter David Fagan",
+        "Peter Mitrano",
+        "Pierre Sermanet",
+        "Pieter Abbeel",
+        "Priya Sundaresan",
+        "Qiuyu Chen",
+        "Quan Vuong",
+        "Rafael Rafailov",
+        "Ran Tian",
+        "Ria Doshi",
+        "Roberto Martín-Martín",
+        "Rohan Baijal",
+        "Rosario Scalise",
+        "Rose Hendrix",
+        "Roy Lin",
+        "Runjia Qian",
+        "Ruohan Zhang",
+        "Russell Mendonca",
+        "Rutav Shah",
+        "Ryan Hoque",
+        "Ryan Julian",
+        "Samuel Bustamante",
+        "Sean Kirmani",
+        "Sergey Levine",
+        "Shan Lin",
+        "Sherry Moore",
+        "Shikhar Bahl",
+        "Shivin Dass",
+        "Shubham Sonawani",
+        "Shubham Tulsiani",
+        "Shuran Song",
+        "Sichun Xu",
+        "Siddhant Haldar",
+        "Siddharth Karamcheti",
+        "Simeon Adebola",
+        "Simon Guist",
+        "Soroush Nasiriany",
+        "Stefan Schaal",
+        "Stefan Welker",
+        "Stephen Tian",
+        "Subramanian Ramamoorthy",
+        "Sudeep Dasari",
+        "Suneel Belkhale",
+        "Sungjae Park",
+        "Suraj Nair",
+        "Suvir Mirchandani",
+        "Takayuki Osa",
+        "Tanmay Gupta",
+        "Tatsuya Harada",
+        "Tatsuya Matsushima",
+        "Ted Xiao",
+        "Thomas Kollar",
+        "Tianhe Yu",
+        "Tianli Ding",
+        "Todor Davchev",
+        "Tony Z. Zhao",
+        "Travis Armstrong",
+        "Trevor Darrell",
+        "Trinity Chung",
+        "Vidhi Jain",
+        "Vikash Kumar",
+        "Vincent Vanhoucke",
+        "Vitor Guizilini",
+        "Wei Zhan",
+        "Wenxuan Zhou",
+        "Wolfram Burgard",
+        "Xi Chen",
+        "Xiangyu Chen",
+        "Xiaolong Wang",
+        "Xinghao Zhu",
+        "Xinyang Geng",
+        "Xiyuan Liu",
+        "Xu Liangwei",
+        "Xuanlin Li",
+        "Yansong Pang",
+        "Yao Lu",
+        "Yecheng Jason Ma",
+        "Yejin Kim",
+        "Yevgen Chebotar",
+        "Yifan Zhou",
+        "Yifeng Zhu",
+        "Yilin Wu",
+        "Ying Xu",
+        "Yixuan Wang",
+        "Yonatan Bisk",
+        "Yongqiang Dou",
+        "Yoonyoung Cho",
+        "Youngwoon Lee",
+        "Yuchen Cui",
+        "Yue Cao",
+        "Yueh-Hua Wu",
+        "Yujin Tang",
+        "Yuke Zhu",
+        "Yunchu Zhang",
+        "Yunfan Jiang",
+        "Yunshuang Li",
+        "Yunzhu Li",
+        "Yusuke Iwasawa",
+        "Yutaka Matsuo",
+        "Zehan Ma",
+        "Zhuo Xu",
+        "Zichen Jeff Cui",
+        "Zichen Zhang",
+        "Zipeng Fu",
+        "Zipeng Lin"
+      ],
+      "first_author": "Open X-Embodiment Collaboration",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2310.08864v9"
+      }
     },
     {
       "id": "n062",
@@ -2042,7 +4958,25 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "2 Mar 2023",
-      "first_author": "Austin Stone"
+      "first_author": "Austin Stone",
+      "authors": [
+        "Austin Stone",
+        "Ted Xiao",
+        "Yao Lu",
+        "Keerthana Gopalakrishnan",
+        "Kuang-Huei Lee",
+        "Quan Vuong",
+        "Paul Wohlhart",
+        "Sean Kirmani",
+        "Brianna Zitkovich",
+        "Fei Xia",
+        "Chelsea Finn",
+        "Karol Hausman"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2303.00905v2"
+      }
     },
     {
       "id": "n022",
@@ -2057,7 +4991,35 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "6 Mar 2023",
-      "first_author": "Danny Driess"
+      "first_author": "Danny Driess",
+      "authors": [
+        "Danny Driess",
+        "Fei Xia",
+        "Mehdi S. M. Sajjadi",
+        "Corey Lynch",
+        "Aakanksha Chowdhery",
+        "Brian Ichter",
+        "Ayzaan Wahid",
+        "Jonathan Tompson",
+        "Quan Vuong",
+        "Tianhe Yu",
+        "Wenlong Huang",
+        "Yevgen Chebotar",
+        "Pierre Sermanet",
+        "Daniel Duckworth",
+        "Sergey Levine",
+        "Vincent Vanhoucke",
+        "Karol Hausman",
+        "Marc Toussaint",
+        "Klaus Greff",
+        "Andy Zeng",
+        "Igor Mordatch",
+        "Pete Florence"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2303.03378v1"
+      }
     },
     {
       "id": "r031",
@@ -2071,7 +5033,20 @@
         "date": "2026-11-05",
         "status": "primary-page-checked"
       },
-      "publication_note": "CoRL 2022; PMLR proceedings published in 2023"
+      "publication_note": "CoRL 2022; PMLR proceedings published in 2023",
+      "authors": [
+        "Kuang-Huei Lee",
+        "Ted Xiao",
+        "Adrian Li",
+        "Paul Wohlhart",
+        "Ian Fischer",
+        "Yao Lu"
+      ],
+      "first_author": "Kuang-Huei Lee",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://proceedings.mlr.press/v205/lee23a.html"
+      }
     },
     {
       "id": "r052",
@@ -2086,7 +5061,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "5 Sep 2023",
-      "first_author": "Homanga Bharadhwaj"
+      "first_author": "Homanga Bharadhwaj",
+      "authors": [
+        "Homanga Bharadhwaj",
+        "Jay Vakil",
+        "Mohit Sharma",
+        "Abhinav Gupta",
+        "Shubham Tulsiani",
+        "Vikash Kumar"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2309.01918v1"
+      }
     },
     {
       "id": "r032",
@@ -2101,7 +5088,52 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "20 Jun 2023",
-      "first_author": "Konstantinos Bousmalis"
+      "first_author": "Konstantinos Bousmalis",
+      "authors": [
+        "Konstantinos Bousmalis",
+        "Giulia Vezzani",
+        "Dushyant Rao",
+        "Coline Devin",
+        "Alex X. Lee",
+        "Maria Bauza",
+        "Todor Davchev",
+        "Yuxiang Zhou",
+        "Agrim Gupta",
+        "Akhil Raju",
+        "Antoine Laurens",
+        "Claudio Fantacci",
+        "Valentin Dalibard",
+        "Martina Zambelli",
+        "Murilo Martins",
+        "Rugile Pevceviciute",
+        "Michiel Blokzijl",
+        "Misha Denil",
+        "Nathan Batchelor",
+        "Thomas Lampe",
+        "Emilio Parisotto",
+        "Konrad Żołna",
+        "Scott Reed",
+        "Sergio Gómez Colmenarejo",
+        "Jon Scholz",
+        "Abbas Abdolmaleki",
+        "Oliver Groth",
+        "Jean-Baptiste Regli",
+        "Oleg Sushkov",
+        "Tom Rothörl",
+        "José Enrique Chen",
+        "Yusuf Aytar",
+        "Dave Barker",
+        "Joy Ortiz",
+        "Martin Riedmiller",
+        "Jost Tobias Springenberg",
+        "Raia Hadsell",
+        "Francesco Nori",
+        "Nicolas Heess"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2306.11706v2"
+      }
     },
     {
       "id": "r017",
@@ -2115,7 +5147,68 @@
         "date": "2026-11-05",
         "status": "primary-page-checked"
       },
-      "related_url": "https://robotics-transformer2.github.io/"
+      "related_url": "https://robotics-transformer2.github.io/",
+      "authors": [
+        "Anthony Brohan",
+        "Noah Brown",
+        "Justice Carbajal",
+        "Yevgen Chebotar",
+        "Xi Chen",
+        "Krzysztof Choromanski",
+        "Tianli Ding",
+        "Danny Driess",
+        "Avinava Dubey",
+        "Chelsea Finn",
+        "Pete Florence",
+        "Chuyuan Fu",
+        "Montse Gonzalez Arenas",
+        "Keerthana Gopalakrishnan",
+        "Kehang Han",
+        "Karol Hausman",
+        "Alexander Herzog",
+        "Jasmine Hsu",
+        "Brian Ichter",
+        "Alex Irpan",
+        "Nikhil Joshi",
+        "Ryan Julian",
+        "Dmitry Kalashnikov",
+        "Yuheng Kuang",
+        "Isabel Leal",
+        "Lisa Lee",
+        "Tsang-Wei Edward Lee",
+        "Sergey Levine",
+        "Yao Lu",
+        "Henryk Michalewski",
+        "Igor Mordatch",
+        "Karl Pertsch",
+        "Kanishka Rao",
+        "Krista Reymann",
+        "Michael Ryoo",
+        "Grecia Salazar",
+        "Pannag Sanketi",
+        "Pierre Sermanet",
+        "Jaspiar Singh",
+        "Anikait Singh",
+        "Radu Soricut",
+        "Huong Tran",
+        "Vincent Vanhoucke",
+        "Quan Vuong",
+        "Ayzaan Wahid",
+        "Stefan Welker",
+        "Paul Wohlhart",
+        "Jialin Wu",
+        "Fei Xia",
+        "Ted Xiao",
+        "Peng Xu",
+        "Sichun Xu",
+        "Tianhe Yu",
+        "Brianna Zitkovich"
+      ],
+      "first_author": "Anthony Brohan",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2307.15818v1"
+      }
     },
     {
       "id": "n021",
@@ -2130,7 +5223,30 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "3 Nov 2023",
-      "first_author": "Jiayuan Gu"
+      "first_author": "Jiayuan Gu",
+      "authors": [
+        "Jiayuan Gu",
+        "Sean Kirmani",
+        "Paul Wohlhart",
+        "Yao Lu",
+        "Montserrat Gonzalez Arenas",
+        "Kanishka Rao",
+        "Wenhao Yu",
+        "Chuyuan Fu",
+        "Keerthana Gopalakrishnan",
+        "Zhuo Xu",
+        "Priya Sundaresan",
+        "Peng Xu",
+        "Hao Su",
+        "Karol Hausman",
+        "Chelsea Finn",
+        "Quan Vuong",
+        "Ted Xiao"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2311.01977v2"
+      }
     },
     {
       "id": "r064",
@@ -2145,7 +5261,17 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "19 Aug 2023",
-      "first_author": "Xiaoyu Huang"
+      "first_author": "Xiaoyu Huang",
+      "authors": [
+        "Xiaoyu Huang",
+        "Dhruv Batra",
+        "Akshara Rai",
+        "Andrew Szot"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2308.09873v1"
+      }
     },
     {
       "id": "n071",
@@ -2160,7 +5286,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "21 Aug 2023",
-      "first_author": "Russell Mendonca"
+      "first_author": "Russell Mendonca",
+      "authors": [
+        "Russell Mendonca",
+        "Shikhar Bahl",
+        "Deepak Pathak"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2308.10901v1"
+      }
     },
     {
       "id": "r034",
@@ -2175,7 +5310,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "25 Oct 2023",
-      "first_author": "Nicklas Hansen"
+      "first_author": "Nicklas Hansen",
+      "authors": [
+        "Nicklas Hansen",
+        "Hao Su",
+        "Xiaolong Wang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2310.16828v2"
+      }
     },
     {
       "id": "r020",
@@ -2188,6 +5332,16 @@
       "record_check": {
         "date": "2026-11-05",
         "status": "primary-page-checked"
+      },
+      "authors": [
+        "Zheng Xiong",
+        "Jacob Beck",
+        "Shimon Whiteson"
+      ],
+      "first_author": "Zheng Xiong",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://proceedings.mlr.press/v202/xiong23a.html"
       }
     },
     {
@@ -2203,7 +5357,22 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "20 Dec 2023",
-      "first_author": "Hongtao Wu"
+      "first_author": "Hongtao Wu",
+      "authors": [
+        "Hongtao Wu",
+        "Ya Jing",
+        "Chilam Cheang",
+        "Guangzeng Chen",
+        "Jiafeng Xu",
+        "Xinghang Li",
+        "Minghuan Liu",
+        "Hang Li",
+        "Tao Kong"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2312.13139v2"
+      }
     },
     {
       "id": "n002",
@@ -2218,7 +5387,20 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "26 Jun 2023",
-      "first_author": "Dhruv Shah"
+      "first_author": "Dhruv Shah",
+      "authors": [
+        "Dhruv Shah",
+        "Ajay Sridhar",
+        "Nitish Dashora",
+        "Kyle Stachowicz",
+        "Kevin Black",
+        "Noriaki Hirose",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2306.14846v2"
+      }
     },
     {
       "id": "n015",
@@ -2233,7 +5415,25 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "2 Nov 2023",
-      "first_author": "Xinghang Li"
+      "first_author": "Xinghang Li",
+      "authors": [
+        "Xinghang Li",
+        "Minghuan Liu",
+        "Hanbo Zhang",
+        "Cunjun Yu",
+        "Jie Xu",
+        "Hongtao Wu",
+        "Chilam Cheang",
+        "Ya Jing",
+        "Weinan Zhang",
+        "Huaping Liu",
+        "Hang Li",
+        "Tao Kong"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2311.01378v3"
+      }
     },
     {
       "id": "n024",
@@ -2248,7 +5448,19 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "12 Jul 2023",
-      "first_author": "Wenlong Huang"
+      "first_author": "Wenlong Huang",
+      "authors": [
+        "Wenlong Huang",
+        "Chen Wang",
+        "Ruohan Zhang",
+        "Yunzhu Li",
+        "Jiajun Wu",
+        "Li Fei-Fei"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2307.05973v2"
+      }
     },
     {
       "id": "n030",
@@ -2263,7 +5475,28 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "31 Mar 2023",
-      "first_author": "Arjun Majumdar"
+      "first_author": "Arjun Majumdar",
+      "authors": [
+        "Arjun Majumdar",
+        "Karmesh Yadav",
+        "Sergio Arnaud",
+        "Yecheng Jason Ma",
+        "Claire Chen",
+        "Sneha Silwal",
+        "Aryan Jain",
+        "Vincent-Pierre Berges",
+        "Pieter Abbeel",
+        "Jitendra Malik",
+        "Dhruv Batra",
+        "Yixin Lin",
+        "Oleksandr Maksymets",
+        "Aravind Rajeswaran",
+        "Franziska Meier"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2303.18240v2"
+      }
     },
     {
       "id": "r040",
@@ -2278,7 +5511,33 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "12 May 2022",
-      "first_author": "Scott Reed"
+      "first_author": "Scott Reed",
+      "authors": [
+        "Scott Reed",
+        "Konrad Zolna",
+        "Emilio Parisotto",
+        "Sergio Gomez Colmenarejo",
+        "Alexander Novikov",
+        "Gabriel Barth-Maron",
+        "Mai Gimenez",
+        "Yury Sulsky",
+        "Jackie Kay",
+        "Jost Tobias Springenberg",
+        "Tom Eccles",
+        "Jake Bruce",
+        "Ali Razavi",
+        "Ashley Edwards",
+        "Nicolas Heess",
+        "Yutian Chen",
+        "Raia Hadsell",
+        "Oriol Vinyals",
+        "Mahyar Bordbar",
+        "Nando de Freitas"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2205.06175v3"
+      }
     },
     {
       "id": "n010",
@@ -2293,7 +5552,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "17 Jun 2022",
-      "first_author": "Brandon Trabucco"
+      "first_author": "Brandon Trabucco",
+      "authors": [
+        "Brandon Trabucco",
+        "Mariano Phielipp",
+        "Glen Berseth"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2206.12279v1"
+      }
     },
     {
       "id": "n087",
@@ -2307,7 +5575,25 @@
         "date": "2026-11-05",
         "status": "primary-manuscript-checked"
       },
-      "caution": "Overlaps the CERBERUS deployment studied in the technical overview; not an independent replication."
+      "caution": "Overlaps the CERBERUS deployment studied in the technical overview; not an independent replication.",
+      "authors": [
+        "Marco Tranzatto",
+        "Takahiro Miki",
+        "Mihir Dharmadhikari",
+        "Lukas Bernreiter",
+        "Mihir Kulkarni",
+        "Frank Mascarich",
+        "Olov Andersson",
+        "Shehryar Khattak",
+        "Marco Hutter",
+        "Roland Siegwart",
+        "Kostas Alexis"
+      ],
+      "first_author": "Marco Tranzatto",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3045745/Science_Robotics_Viewpoint_CERBERUS.pdf?sequence=1"
+      }
     },
     {
       "id": "n023",
@@ -2322,7 +5608,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "16 Sep 2022",
-      "first_author": "Jacky Liang"
+      "first_author": "Jacky Liang",
+      "authors": [
+        "Jacky Liang",
+        "Wenlong Huang",
+        "Fei Xia",
+        "Peng Xu",
+        "Karol Hausman",
+        "Brian Ichter",
+        "Pete Florence",
+        "Andy Zeng"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2209.07753v4"
+      }
     },
     {
       "id": "r049",
@@ -2337,7 +5637,58 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "4 Apr 2022",
-      "first_author": "Michael Ahn"
+      "first_author": "Michael Ahn",
+      "authors": [
+        "Michael Ahn",
+        "Anthony Brohan",
+        "Noah Brown",
+        "Yevgen Chebotar",
+        "Omar Cortes",
+        "Byron David",
+        "Chelsea Finn",
+        "Chuyuan Fu",
+        "Keerthana Gopalakrishnan",
+        "Karol Hausman",
+        "Alex Herzog",
+        "Daniel Ho",
+        "Jasmine Hsu",
+        "Julian Ibarz",
+        "Brian Ichter",
+        "Alex Irpan",
+        "Eric Jang",
+        "Rosario Jauregui Ruano",
+        "Kyle Jeffrey",
+        "Sally Jesmonth",
+        "Nikhil J Joshi",
+        "Ryan Julian",
+        "Dmitry Kalashnikov",
+        "Yuheng Kuang",
+        "Kuang-Huei Lee",
+        "Sergey Levine",
+        "Yao Lu",
+        "Linda Luu",
+        "Carolina Parada",
+        "Peter Pastor",
+        "Jornell Quiambao",
+        "Kanishka Rao",
+        "Jarek Rettinghouse",
+        "Diego Reyes",
+        "Pierre Sermanet",
+        "Nicolas Sievers",
+        "Clayton Tan",
+        "Alexander Toshev",
+        "Vincent Vanhoucke",
+        "Fei Xia",
+        "Ted Xiao",
+        "Peng Xu",
+        "Sichun Xu",
+        "Mengyuan Yan",
+        "Andy Zeng"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2204.01691v2"
+      }
     },
     {
       "id": "n001",
@@ -2352,7 +5703,18 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "7 Oct 2022",
-      "first_author": "Dhruv Shah"
+      "first_author": "Dhruv Shah",
+      "authors": [
+        "Dhruv Shah",
+        "Ajay Sridhar",
+        "Arjun Bhorkar",
+        "Noriaki Hirose",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2210.03370v2"
+      }
     },
     {
       "id": "r019",
@@ -2367,7 +5729,17 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "22 Mar 2022",
-      "first_author": "Agrim Gupta"
+      "first_author": "Agrim Gupta",
+      "authors": [
+        "Agrim Gupta",
+        "Linxi Fan",
+        "Surya Ganguli",
+        "Li Fei-Fei"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2203.11931v1"
+      }
     },
     {
       "id": "n029",
@@ -2382,7 +5754,18 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "23 Mar 2022",
-      "first_author": "Suraj Nair"
+      "first_author": "Suraj Nair",
+      "authors": [
+        "Suraj Nair",
+        "Aravind Rajeswaran",
+        "Vikash Kumar",
+        "Chelsea Finn",
+        "Abhinav Gupta"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2203.12601v3"
+      }
     },
     {
       "id": "r118",
@@ -2395,6 +5778,65 @@
       "record_check": {
         "date": "2026-11-05",
         "status": "primary-page-checked"
+      },
+      "authors": [
+        "Sebastian Scherer",
+        "Vasu Agrawal",
+        "Graeme Best",
+        "Chao Cao",
+        "Katarina Cujic",
+        "Ryan Darnley",
+        "Robert DeBortoli",
+        "Eric Dexheimer",
+        "Bill Drozd",
+        "Rohit Garg",
+        "Ian Higgins",
+        "John Keller",
+        "David Kohanbash",
+        "Lucas Nogueira",
+        "Roshan Pradhan",
+        "Michael Tatum",
+        "Vaibhav K. Viswanathan",
+        "Steven Willits",
+        "Shibo Zhao",
+        "Hongbiao Zhu",
+        "Dan Abad",
+        "Tim Angert",
+        "Greg Armstrong",
+        "Ralph Boirum",
+        "Adwait Dongare",
+        "Matthew Dworman",
+        "Shengjie Hu",
+        "Joshua Jaekel",
+        "Ran Ji",
+        "Alice Lai",
+        "Yu Hsuan Lee",
+        "Anh Luong",
+        "Joshua Mangelson",
+        "Jay Maier",
+        "James Picard",
+        "Kevin Pluckter",
+        "Andrew Saba",
+        "Manish Saroya",
+        "Emily Scheide",
+        "Nathaniel Shoemaker-Trejo",
+        "Joshua Spisak",
+        "Jim Teza",
+        "Fan Yang",
+        "Andrew Wilson",
+        "Henry Zhang",
+        "Howie Choset",
+        "Michael Kaess",
+        "Anthony Rowe",
+        "Sanjiv Singh",
+        "Ji Zhang",
+        "Geoffrey A. Hollinger",
+        "Matthew Travers"
+      ],
+      "first_author": "Sebastian Scherer",
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://www.cs.cmu.edu/~kaess/pub/Scherer22fr.pdf"
       }
     },
     {
@@ -2410,7 +5852,64 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "13 Dec 2022",
-      "first_author": "Anthony Brohan"
+      "first_author": "Anthony Brohan",
+      "authors": [
+        "Anthony Brohan",
+        "Noah Brown",
+        "Justice Carbajal",
+        "Yevgen Chebotar",
+        "Joseph Dabis",
+        "Chelsea Finn",
+        "Keerthana Gopalakrishnan",
+        "Karol Hausman",
+        "Alex Herzog",
+        "Jasmine Hsu",
+        "Julian Ibarz",
+        "Brian Ichter",
+        "Alex Irpan",
+        "Tomas Jackson",
+        "Sally Jesmonth",
+        "Nikhil J Joshi",
+        "Ryan Julian",
+        "Dmitry Kalashnikov",
+        "Yuheng Kuang",
+        "Isabel Leal",
+        "Kuang-Huei Lee",
+        "Sergey Levine",
+        "Yao Lu",
+        "Utsav Malla",
+        "Deeksha Manjunath",
+        "Igor Mordatch",
+        "Ofir Nachum",
+        "Carolina Parada",
+        "Jodilyn Peralta",
+        "Emily Perez",
+        "Karl Pertsch",
+        "Jornell Quiambao",
+        "Kanishka Rao",
+        "Michael Ryoo",
+        "Grecia Salazar",
+        "Pannag Sanketi",
+        "Kevin Sayed",
+        "Jaspiar Singh",
+        "Sumedh Sontakke",
+        "Austin Stone",
+        "Clayton Tan",
+        "Huong Tran",
+        "Vincent Vanhoucke",
+        "Steve Vega",
+        "Quan Vuong",
+        "Fei Xia",
+        "Ted Xiao",
+        "Peng Xu",
+        "Sichun Xu",
+        "Tianhe Yu",
+        "Brianna Zitkovich"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2212.06817v2"
+      }
     },
     {
       "id": "r105",
@@ -2425,7 +5924,49 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "11 Jul 2022",
-      "first_author": "Marco Tranzatto"
+      "first_author": "Marco Tranzatto",
+      "authors": [
+        "Marco Tranzatto",
+        "Mihir Dharmadhikari",
+        "Lukas Bernreiter",
+        "Marco Camurri",
+        "Shehryar Khattak",
+        "Frank Mascarich",
+        "Patrick Pfreundschuh",
+        "David Wisth",
+        "Samuel Zimmermann",
+        "Mihir Kulkarni",
+        "Victor Reijgwart",
+        "Benoit Casseau",
+        "Timon Homberger",
+        "Paolo De Petris",
+        "Lionel Ott",
+        "Wayne Tubby",
+        "Gabriel Waibel",
+        "Huan Nguyen",
+        "Cesar Cadena",
+        "Russell Buchanan",
+        "Lorenz Wellhausen",
+        "Nikhil Khedekar",
+        "Olov Andersson",
+        "Lintong Zhang",
+        "Takahiro Miki",
+        "Tung Dang",
+        "Matias Mattamala",
+        "Markus Montenegro",
+        "Konrad Meyer",
+        "Xiangyu Wu",
+        "Adrien Briod",
+        "Mark Mueller",
+        "Maurice Fallon",
+        "Roland Siegwart",
+        "Marco Hutter",
+        "Kostas Alexis"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2207.04914v1"
+      }
     },
     {
       "id": "r050",
@@ -2440,7 +5981,23 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "6 Oct 2022",
-      "first_author": "Yunfan Jiang"
+      "first_author": "Yunfan Jiang",
+      "authors": [
+        "Yunfan Jiang",
+        "Agrim Gupta",
+        "Zichen Zhang",
+        "Guanzhi Wang",
+        "Yongqiang Dou",
+        "Yanjun Chen",
+        "Li Fei-Fei",
+        "Anima Anandkumar",
+        "Yuke Zhu",
+        "Linxi Fan"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2210.03094v2"
+      }
     },
     {
       "id": "r076",
@@ -2455,7 +6012,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "27 Sep 2021",
-      "first_author": "Frederik Ebert"
+      "first_author": "Frederik Ebert",
+      "authors": [
+        "Frederik Ebert",
+        "Yanlai Yang",
+        "Karl Schmeckpeper",
+        "Bernadette Bucher",
+        "Georgios Georgakis",
+        "Kostas Daniilidis",
+        "Chelsea Finn",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2109.13396v1"
+      }
     },
     {
       "id": "r055",
@@ -2470,7 +6041,17 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "6 Dec 2021",
-      "first_author": "Oier Mees"
+      "first_author": "Oier Mees",
+      "authors": [
+        "Oier Mees",
+        "Lukas Hermann",
+        "Erick Rosete-Beas",
+        "Wolfram Burgard"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2112.03227v4"
+      }
     },
     {
       "id": "r030",
@@ -2485,7 +6066,21 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "16 Apr 2021",
-      "first_author": "Dmitry Kalashnikov"
+      "first_author": "Dmitry Kalashnikov",
+      "authors": [
+        "Dmitry Kalashnikov",
+        "Jacob Varley",
+        "Yevgen Chebotar",
+        "Benjamin Swanson",
+        "Rico Jonschkowski",
+        "Chelsea Finn",
+        "Sergey Levine",
+        "Karol Hausman"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2104.08212v2"
+      }
     },
     {
       "id": "r117",
@@ -2500,7 +6095,85 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "21 Mar 2021",
-      "first_author": "Ali Agha"
+      "first_author": "Ali Agha",
+      "authors": [
+        "Ali Agha",
+        "Kyohei Otsu",
+        "Benjamin Morrell",
+        "David D. Fan",
+        "Rohan Thakker",
+        "Angel Santamaria-Navarro",
+        "Sung-Kyun Kim",
+        "Amanda Bouman",
+        "Xianmei Lei",
+        "Jeffrey Edlund",
+        "Muhammad Fadhil Ginting",
+        "Kamak Ebadi",
+        "Matthew Anderson",
+        "Torkom Pailevanian",
+        "Edward Terry",
+        "Michael Wolf",
+        "Andrea Tagliabue",
+        "Tiago Stegun Vaquero",
+        "Matteo Palieri",
+        "Scott Tepsuporn",
+        "Yun Chang",
+        "Arash Kalantari",
+        "Fernando Chavez",
+        "Brett Lopez",
+        "Nobuhiro Funabiki",
+        "Gregory Miles",
+        "Thomas Touma",
+        "Alessandro Buscicchio",
+        "Jesus Tordesillas",
+        "Nikhilesh Alatur",
+        "Jeremy Nash",
+        "William Walsh",
+        "Sunggoo Jung",
+        "Hanseob Lee",
+        "Christoforos Kanellakis",
+        "John Mayo",
+        "Scott Harper",
+        "Marcel Kaufmann",
+        "Anushri Dixit",
+        "Gustavo Correa",
+        "Carlyn Lee",
+        "Jay Gao",
+        "Gene Merewether",
+        "Jairo Maldonado-Contreras",
+        "Gautam Salhotra",
+        "Maira Saboia Da Silva",
+        "Benjamin Ramtoula",
+        "Yuki Kubo",
+        "Seyed Fakoorian",
+        "Alexander Hatteland",
+        "Taeyeon Kim",
+        "Tara Bartlett",
+        "Alex Stephens",
+        "Leon Kim",
+        "Chuck Bergh",
+        "Eric Heiden",
+        "Thomas Lew",
+        "Abhishek Cauligi",
+        "Tristan Heywood",
+        "Andrew Kramer",
+        "Henry A. Leopold",
+        "Chris Choi",
+        "Shreyansh Daftry",
+        "Olivier Toupet",
+        "Inhwan Wee",
+        "Abhishek Thakur",
+        "Micah Feras",
+        "Giovanni Beltrame",
+        "George Nikolakopoulos",
+        "David Shim",
+        "Luca Carlone",
+        "Joel Burdick"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2103.11470v4"
+      }
     },
     {
       "id": "n109",
@@ -2515,7 +6188,18 @@
         "status": "primary-page-checked"
       },
       "first_author": "Lin Shao",
-      "publication_note": "RSS 2020"
+      "publication_note": "RSS 2020",
+      "authors": [
+        "Lin Shao",
+        "Toki Migimatsu",
+        "Qiang Zhang",
+        "Kaiyuan Yang",
+        "Jeannette Bohg"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://www.roboticsproceedings.org/rss16/p082.html"
+      }
     },
     {
       "id": "n105",
@@ -2529,9 +6213,17 @@
         "date": "2026-11-06",
         "status": "primary-record-checked"
       },
-      "first_author": "Corey Lynch and Pierre Sermanet",
+      "first_author": "Corey Lynch",
       "publication_note": "RSS 2021",
-      "first_submitted": "15 May 2020"
+      "first_submitted": "15 May 2020",
+      "authors": [
+        "Corey Lynch",
+        "Pierre Sermanet"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2005.07648v2"
+      }
     },
     {
       "id": "n106",
@@ -2547,7 +6239,18 @@
       },
       "first_author": "Ajay Mandlekar",
       "publication_note": "RSS 2020",
-      "first_submitted": "13 Mar 2020"
+      "first_submitted": "13 Mar 2020",
+      "authors": [
+        "Ajay Mandlekar",
+        "Danfei Xu",
+        "Roberto Martín-Martín",
+        "Silvio Savarese",
+        "Li Fei-Fei"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2003.06085v2"
+      }
     },
     {
       "id": "n104",
@@ -2563,7 +6266,17 @@
       },
       "first_author": "Ruihan Yang",
       "publication_note": "NeurIPS 2020",
-      "first_submitted": "30 Mar 2020"
+      "first_submitted": "30 Mar 2020",
+      "authors": [
+        "Ruihan Yang",
+        "Huazhe Xu",
+        "Yi Wu",
+        "Xiaolong Wang"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2003.13661v2"
+      }
     },
     {
       "id": "n103",
@@ -2579,7 +6292,18 @@
       },
       "first_author": "Vitaly Kurin",
       "publication_note": "ICLR 2021",
-      "first_submitted": "5 Oct 2020"
+      "first_submitted": "5 Oct 2020",
+      "authors": [
+        "Vitaly Kurin",
+        "Maximilian Igl",
+        "Tim Rocktäschel",
+        "Wendelin Boehmer",
+        "Shimon Whiteson"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2010.01856v2"
+      }
     },
     {
       "id": "n008",
@@ -2594,7 +6318,16 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "9 Jul 2020",
-      "first_author": "Wenlong Huang"
+      "first_author": "Wenlong Huang",
+      "authors": [
+        "Wenlong Huang",
+        "Igor Mordatch",
+        "Deepak Pathak"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2007.04976v1"
+      }
     },
     {
       "id": "n107",
@@ -2610,7 +6343,21 @@
       },
       "first_author": "Avi Singh",
       "publication_note": "ICRA 2020",
-      "first_submitted": "25 Feb 2020"
+      "first_submitted": "25 Feb 2020",
+      "authors": [
+        "Avi Singh",
+        "Eric Jang",
+        "Alexander Irpan",
+        "Daniel Kappler",
+        "Murtaza Dalal",
+        "Sergey Levine",
+        "Mohi Khansari",
+        "Chelsea Finn"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2003.02636v1"
+      }
     },
     {
       "id": "n108",
@@ -2626,7 +6373,18 @@
       },
       "first_author": "Dhruv Shah",
       "publication_note": "ICRA 2021",
-      "first_submitted": "17 Dec 2020"
+      "first_submitted": "17 Dec 2020",
+      "authors": [
+        "Dhruv Shah",
+        "Benjamin Eysenbach",
+        "Gregory Kahn",
+        "Nicholas Rhinehart",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/2012.09812v2"
+      }
     },
     {
       "id": "n009",
@@ -2641,7 +6399,18 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "14 Feb 2019",
-      "first_author": "Deepak Pathak"
+      "first_author": "Deepak Pathak",
+      "authors": [
+        "Deepak Pathak",
+        "Chris Lu",
+        "Trevor Darrell",
+        "Phillip Isola",
+        "Alexei A. Efros"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/1902.05546v2"
+      }
     },
     {
       "id": "r067",
@@ -2656,7 +6425,23 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "24 Oct 2019",
-      "first_author": "Tianhe Yu"
+      "first_author": "Tianhe Yu",
+      "authors": [
+        "Tianhe Yu",
+        "Deirdre Quillen",
+        "Zhanpeng He",
+        "Ryan Julian",
+        "Avnish Narayan",
+        "Hayden Shively",
+        "Adithya Bellathur",
+        "Karol Hausman",
+        "Chelsea Finn",
+        "Sergey Levine"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/1910.10897v2"
+      }
     },
     {
       "id": "r056",
@@ -2671,7 +6456,17 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "26 Sep 2019",
-      "first_author": "Stephen James"
+      "first_author": "Stephen James",
+      "authors": [
+        "Stephen James",
+        "Zicong Ma",
+        "David Rovick Arrojo",
+        "Andrew J. Davison"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/1909.12271v1"
+      }
     },
     {
       "id": "r069",
@@ -2686,7 +6481,22 @@
         "status": "primary-record-checked"
       },
       "first_submitted": "24 Oct 2019",
-      "first_author": "Sudeep Dasari"
+      "first_author": "Sudeep Dasari",
+      "authors": [
+        "Sudeep Dasari",
+        "Frederik Ebert",
+        "Stephen Tian",
+        "Suraj Nair",
+        "Bernadette Bucher",
+        "Karl Schmeckpeper",
+        "Siddharth Singh",
+        "Sergey Levine",
+        "Chelsea Finn"
+      ],
+      "authors_check": {
+        "date": "2026-11-06",
+        "source": "https://arxiv.org/abs/1910.11215v2"
+      }
     }
   ]
 }
